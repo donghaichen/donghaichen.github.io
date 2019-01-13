@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>女孩为何穿短裙</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="x-dns-prefetch-control" content="on">
+  <link rel="dns-prefetch" href="//blog.mengniang.tv">
+  <link rel="dns-prefetch" href="//cdn.bootcss.com">
+  <link rel="dns-prefetch" href="//gravatar.loli.net">
+  <link rel="dns-prefetch" href="//cn.bing.com">
+  <link rel="shortcut icon" href="/_media/fluidicon.png">
+  <link rel="icon" href="/_media/fluidicon.png">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <style type="text/css">
+    section.cover.show{
+      background-image: url(https://cn.bing.com//az/hprichbg/rb/GoldenEagle_ZH-CN2823955379_1920x1080.jpg)!important;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      color: #fff
+    }
+      
+    section.cover .anchor span{
+      color: #fff
+    }
+    section.cover h1 {
+    font-size: 1.5rem;
+  }
+    section.cover blockquote {
+      font-size: 1rem;
+    }
+   section.cover .cover-main img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      padding: 3px;
+      background: #fff;
+      box-shadow: 0 0 5px #95a5a6;
+      position: relative;
+      margin: 0 auto;
+      transform: translateY(-20px);
+      transition: all 0.4s;
+  }
+  </style>
+</head>
+<body>
+  <div id="app">Loading ...</div>
+  <script>
+    window.$docsify = {
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+      },
+      name: '首页',
+      nameLink: '/',
+      repo: 'https://github.com/donghaichen',
+      // logo: '/_media/fluidicon.png',
+      themeColor: '#bad0f7',
+      auto2top: true,
+      coverpage: true,
+      executeScript: true,
+      loadSidebar: true,
+      // loadNavbar: true,
+      // mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      search: {
+        noData: {
+          '/': '没有结果!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索'
+        }
+      },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      plugins: [
+        function (hook) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span><a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>',
+            '</footer>'
+          ].join('')
+
+          hook.afterEach(function (html) {
+            return html + footer
+          })
+        }
+      ]
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-php.js"></script>
+</body>
+</html>
