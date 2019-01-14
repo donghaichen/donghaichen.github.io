@@ -4,6 +4,6 @@
 
 ### Contact
 
-[weibo](http://weibo.com/5434512907)
-[twitter](https://twitter.com/iggppc)
-[github](https://github.com/donghaichen)
+[Weibo](http://weibo.com/5434512907)
+[Twitter](https://twitter.com/iggppc)
+[Github](https://github.com/donghaichen)
