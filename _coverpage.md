@@ -1,4 +1,4 @@
-![logo](https://blog.mengniang.tv/deps/partial/imgs/avatar.jpg)
+![logo](/_static/img/avatar.jpg)
 
 # 女孩为何穿短裙
 
