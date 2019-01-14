@@ -1,4 +1,4 @@
-![logo](/_static/img/avatar.jpg)
+![logo](/static/img/avatar.jpg)
 
 # 女孩为何穿短裙
 

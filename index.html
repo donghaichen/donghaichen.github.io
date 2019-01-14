@@ -10,12 +10,13 @@
   <link rel="dns-prefetch" href="//cdn.bootcss.com">
   <link rel="dns-prefetch" href="//gravatar.loli.net">
   <link rel="dns-prefetch" href="//cn.bing.com">
-  <link rel="shortcut icon" href="/_static/img/fluidicon.png">
-  <link rel="icon" href="/_static/img/fluidicon.png">
+  <link rel="dns-prefetch" href="//unpkg.com">
+  <link rel="shortcut icon" href="/static/img/fluidicon.png">
+  <link rel="icon" href="/static/img/fluidicon.png">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <style type="text/css">
     section.cover.show{
-      background-image: url(https://cn.bing.com//az/hprichbg/rb/GoldenEagle_ZH-CN2823955379_1920x1080.jpg)!important;
+      background-image: url(//cn.bing.com/az/hprichbg/rb/GoldenEagle_ZH-CN2823955379_1920x1080.jpg)!important;
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -43,6 +44,15 @@
       transform: translateY(-20px);
       transition: all 0.4s;
   }
+
+  body.sticky .sidebar, body.sticky .sidebar-toggle {
+    position: fixed;
+    top: 40px;
+}
+.sidebar-toggle {
+    top: 0;
+    bottom: auto;
+}
   </style>
 </head>
 <body>
@@ -80,7 +90,7 @@
           var footer = [
             '<hr/>',
             '<footer>',
-            '<span><a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>',
+            '<span><a href="//docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>',
             '</footer>'
           ].join('')
 
