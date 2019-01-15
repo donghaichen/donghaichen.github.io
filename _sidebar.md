@@ -1,3 +1,4 @@
+* [( 转载 ) PHP 最佳实践](post/php-the-right-way)
 * [( 转载 ) Rails 信条](post/the-rails-doctrine)
 * [( 转载 ) 中文文案排版指北](post/chinese-copywriting-guidelines)
 * [Ubuntu16 安装 mysql5.7](post/ubuntu-install-mysql)
