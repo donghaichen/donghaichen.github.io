@@ -1,3 +1,4 @@
+* [Ubuntu16安装mysql5.7](post/ubuntu-install-mysql)
 * [( 转载 ) 语义化版本 2.0.0](post/Semantic-Versioning-2-0-0)
 * [二进制和字符串相互转换方法](post/binary-to-string)
 * [PHP常用命令](post/php-bash-commands)
