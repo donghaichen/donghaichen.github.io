@@ -282,4 +282,5 @@ RSpec，一个我不喜欢的 Test DSL，RSpec 的持续成功是最完美的证
 当然这是要付出代价的，需要努力让付出的贡献受欢迎。特别是我们目标不仅仅是要吸引住已经在社区的人，我们永远都要真正考虑如何降低起步门槛。
 
 你永远不知道，改正文件错误拼写的人，可能就是下个大功能改进的黑马。无论是多小的贡献，都能笑着说感谢，这样贡献者就能一直持续下去。
-原文链接 ： [https://raw.githubusercontent.com/ruby-china/the-rails-doctrine/master/README.md](https://raw.githubusercontent.com/ruby-china/the-rails-doctrine/master/README.md)
+
+> 原文链接 ： [https://raw.githubusercontent.com/ruby-china/the-rails-doctrine/master/README.md](https://raw.githubusercontent.com/ruby-china/the-rails-doctrine/master/README.md)

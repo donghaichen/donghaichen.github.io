@@ -85,4 +85,4 @@
 
 如果您有任何建议，请到 [GitHub](https://github.com/mojombo/semver/issues) 上提出您的问题
 
-原文链接 : [https://semver.org/lang/zh-CN/](https://semver.org/lang/zh-CN/)
+> 原文链接 : [https://semver.org/lang/zh-CN/](https://semver.org/lang/zh-CN/)

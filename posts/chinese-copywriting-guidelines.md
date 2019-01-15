@@ -281,4 +281,4 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 - [引号 - 维基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑问惊叹号 - 维基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
                  
-  原文链接 [https://raw.githubusercontent.com/sparanoid//master/README.zh-CN.md](https://raw.githubusercontent.com/sparanoid//master/README.zh-CN.md)
+> 原文链接 [https://raw.githubusercontent.com/sparanoid//master/README.zh-CN.md](https://raw.githubusercontent.com/sparanoid//master/README.zh-CN.md)
