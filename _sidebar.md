@@ -1,4 +1,4 @@
-× [中文文案排版指北](chinese-copywriting-guidelines)
+× [( 转载 ) 中文文案排版指北](chinese-copywriting-guidelines)
 * [Ubuntu16 安装 mysql5.7](post/ubuntu-install-mysql)
 * [( 转载 ) 语义化版本 2.0.0](post/Semantic-Versioning-2-0-0)
 * [二进制和字符串相互转换方法](post/binary-to-string)
