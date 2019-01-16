@@ -1,4 +1,4 @@
-* [Centos 编译安装 php7.3.1](centos-compiled-installation-php7)
+* [Centos 编译安装 php7.3.1](posts/centos-compiled-installation-php7.3.1)
 * [( 转载 ) PHP 最佳实践](posts/php-the-right-way)
 * [( 转载 ) Rails 信条](posts/the-rails-doctrine)
 * [( 转载 ) 中文文案排版指北](posts/chinese-copywriting-guidelines)
