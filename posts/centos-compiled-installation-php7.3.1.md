@@ -106,14 +106,14 @@ source /etc/profile
 
 ### 查看是否启动
 ```bash
-netstat -lnt | grep 9000
+netstat -tunlp | grep 9000
 ```
 
 ### 杀死 php-fpm
 ```bash
 killall php-fpm
 # 或者
-netstat -tunlp |grep php
+ps aux | grep php
 kill -USR2 4081
 ```
 
