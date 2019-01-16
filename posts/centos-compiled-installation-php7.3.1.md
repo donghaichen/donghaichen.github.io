@@ -117,6 +117,24 @@ netstat -tunlp |grep php
 kill -USR2 4081
 ```
 
+### 查看 Centos 版本
+```bash
+cat /etc/redhat-release
+```
+
+### 添加 Nginx 配置
+```nginx
+location ~ \.php$ 
+{
+    try_files $uri /index.php =404;
+    fastcgi_split_path_info ^(.+\.php)(/.+)$;
+    fastcgi_pass 127.0.0.1:9000;
+    fastcgi_index index.php;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    include fastcgi_params;
+}
+```
+
 ### 安装完成 php7 路径备忘
 ```bash
 Installing shared extensions:     /usr/local/php7/lib/php/extensions/no-debug-zts-20180731/
