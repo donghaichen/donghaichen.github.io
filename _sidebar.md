@@ -1,3 +1,4 @@
+* [Centos 编译安装 php7.3.1](centos-compiled-installation-php7.3.1)
 * [( 转载 ) PHP 最佳实践](posts/php-the-right-way)
 * [( 转载 ) Rails 信条](posts/the-rails-doctrine)
 * [( 转载 ) 中文文案排版指北](posts/chinese-copywriting-guidelines)
@@ -7,5 +8,5 @@
 * [PHP 常用命令](posts/php-bash-commands)
 * [CentOS yum 安装 php72w](posts/centos-intall-php7)
 * [CentOS 安装最新版 nodejs](posts/CentOS-Lasted-nodejs)
-* [bing 每日图片和故事 API 接口](posts/bing-api-pic-story)
-* [curl 模拟浏览器请求常用命令](posts/curl-shell)
+* [Bing 每日图片和故事 API 接口](posts/bing-api-pic-story)
+* [Curl 模拟浏览器请求常用命令](posts/curl-shell)
