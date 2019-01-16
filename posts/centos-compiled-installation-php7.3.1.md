@@ -74,33 +74,82 @@ ln -s /usr/local/php7/sbin/php-fpm /usr/local/sbin/php7-fpm
 ```
 
 ### 对 php-fpm 运行用户进行设置
+```bash
 cd ~/php-7.3.1
 cp -R ./php.ini-development ./php.ini-production /usr/local/php7/etc
 cp /usr/local/php7/etc/php.ini-development /usr/local/php7/etc/php.ini
 cp /usr/local/php7/etc/php-fpm.conf.default /usr/local/php7/etc/php-fpm.conf
 cp /usr/local/php7/etc/php-fpm.d/www.conf.default /usr/local/php7/etc/php-fpm.d/www.conf
+```
+
 ### 建立软链
+```bash
 ln -s /usr/local/php7/etc/php.ini /usr/local/etc/php7.ini
 ln -s /usr/local/php7/etc/php-fpm.conf /usr/local/etc/php7-fpm.conf
 ln -s /usr/local/php7/etc/php-fpm.d/www.conf /usr/local/etc/php7-fpm.d/www.conf
+```
+
 ### 配置环境变量，加入全局命令
+```bash
 vim /etc/profile
 
 PATH=$PATH:/usr/local/php7/bin
 export PATH
 
 source /etc/profile
+```
 
 ### 启动php-fpm 服务
+```bash
 /usr/local/sbin/php7-fpm
+```
 
 ### 查看是否启动
+```bash
 netstat -lnt | grep 9000
+```
 
 ### 杀死 php-fpm
+```bash
 killall php-fpm
 # 或者
 netstat -tunlp |grep php
 kill -USR2 4081
+```
+
+### 安装完成 php7 路径备忘
+```bash
+Installing shared extensions:     /usr/local/php7/lib/php/extensions/no-debug-zts-20180731/
+Installing PHP CLI binary:        /usr/local/php7/bin/
+Installing PHP CLI man page:      /usr/local/php7/php/man/man1/
+Installing PHP FPM binary:        /usr/local/php7/sbin/
+Installing PHP FPM defconfig:     /usr/local/php7/etc/
+Installing PHP FPM man page:      /usr/local/php7/php/man/man8/
+Installing PHP FPM status page:   /usr/local/php7/php/php/fpm/
+Installing phpdbg binary:         /usr/local/php7/bin/
+Installing phpdbg man page:       /usr/local/php7/php/man/man1/
+Installing PHP CGI binary:        /usr/local/php7/bin/
+Installing PHP CGI man page:      /usr/local/php7/php/man/man1/
+Installing build environment:     /usr/local/php7/lib/php/build/
+Installing header files:          /usr/local/php7/include/php/
+Installing helper programs:       /usr/local/php7/bin/
+  program: phpize
+  program: php-config
+Installing man pages:             /usr/local/php7/php/man/man1/
+  page: phpize.1
+  page: php-config.1
+Installing PEAR environment:      /usr/local/php7/lib/php/
+[PEAR] Archive_Tar    - installed: 1.4.4
+[PEAR] Console_Getopt - installed: 1.4.1
+[PEAR] Structures_Graph- installed: 1.1.1
+[PEAR] XML_Util       - installed: 1.4.3
+[PEAR] PEAR           - installed: 1.10.7
+Warning! a PEAR user config file already exists from a previous PEAR installation at '/root/.pearrc'. You may probably want to remove it.
+Wrote PEAR system config file at: /usr/local/php7/etc/pear.conf
+You may want to add: /usr/local/php7/lib/php to your php.ini include_path
+/root/php-7.3.1/build/shtool install -c ext/phar/phar.phar /usr/local/php7/bin
+ln -s -f phar.phar /usr/local/php7/bin/phar
+Installing PDO headers:           /usr/local/php7/include/php/ext/pdo/
+```
 
 > 参考链接 ： [https://segmentfault.com/a/1190000015433237?utm_source=tag-newest](https://segmentfault.com/a/1190000015433237?utm_source=tag-newest)
