@@ -1,1 +1,1 @@
-> 原文链接 ： [http://laravel-china.github.io/php-the-right-way/](http://laravel-china.github.io/php-the-right-way/)
+> 原文链接 ： [http://php.mengniang.tv](http://php.mengniang.tv)
