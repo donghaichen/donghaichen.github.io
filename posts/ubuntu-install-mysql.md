@@ -1,3 +1,5 @@
+# Ubuntu16 安装 mysql5.7
+
 ### 安装 mysql5.7
 ```bash
 sudo apt-cache search mysql-server
