@@ -1,3 +1,5 @@
+# PHP 常用命
+
 ```bash
 #调用 phpinfo() 函数并显示出结果
 php -i 
