@@ -1,6 +1,8 @@
-# About
+![avatar](/static/img/avatar.jpg)
 
-> A Web developer
+# 女孩为何穿短裙
+
+> 梦里有个载满可乐的卡车向我驶来
 
 ### Contact
 
