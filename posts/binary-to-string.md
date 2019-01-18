@@ -1,7 +1,5 @@
----
-title: 入门指南
-anchor: getting_started
----
+# 二进制和字符串相互转换方法
+
 ```javascript
 //将Blob 对象转换成字符串
 function binaryToStr(blob) 
