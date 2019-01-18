@@ -1,3 +1,5 @@
+# Bing 每日图片和故事 API 接口
+
 ### 图片API地址
 ```bash
 https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1
