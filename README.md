@@ -1,4 +1,4 @@
-![avatar](https://blog.mengniang.tv/static/img/avatar.jpg){:height="100px" width="100px"}
+![avatar](https://blog.mengniang.tv/static/img/avatar.jpg#avatar)
 # 女孩为何穿短裙
 
 > 梦里有个载满可乐的卡车向我驶来
