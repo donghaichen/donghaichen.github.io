@@ -1,4 +1,4 @@
-#Centos 编译安装 php7.3.1
+# Centos 编译安装 php7.3.1
 
 ### 安装依赖
 ```bash
