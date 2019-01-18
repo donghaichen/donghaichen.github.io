@@ -1,3 +1,5 @@
+# ( 转载 ) Rails 信条
+
 > 本文翻译自 [The Rails Doctrine](http://rubyonrails.org/doctrine/) - 作者是 DHH，原始由 @juanito 翻译成 [繁体中文](https://medium.com/@juanitofatas/ruby-on-rails-%E5%9F%BA%E6%9C%AC%E4%B8%BB%E7%BE%A9-f4cde39292a4#.kktaja5fo)，再由 [Ruby China](https://ruby-china.org) 组织成简体中文。
 > 如你发现本文有错别字或翻译不准确的地方，请访问 [GitHub](https://github.com/ruby-china/the-rails-doctrine) 提交 Pull Request。
 > 下文将提到的我，表示 DHH 自己。
