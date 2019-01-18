@@ -1,3 +1,5 @@
+# CentOS yum 安装 php72w
+
 ### 安装PHP
 ```bash
 rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
