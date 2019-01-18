@@ -1,3 +1,7 @@
+---
+title: 入门指南
+anchor: getting_started
+---
 ```javascript
 //将Blob 对象转换成字符串
 function binaryToStr(blob) 
