@@ -2,8 +2,7 @@
 
    | 水果        | 价格    |
     | --------   | -----:   |
-    | 香蕉        | $1      | 
-    | 苹果        | $1      |
-    | 草莓        | $1      |
+      | +1       | <img src="https://assets-cdn.github.com/images/icons/emoji/+1.png">   | 
+      | 100        | <img src="https://assets-cdn.github.com/images/icons/emoji/100.png">   | 
  
   
