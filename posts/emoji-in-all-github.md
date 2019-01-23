@@ -1,7 +1,7 @@
 #  所有 emoji 和对应的图片，共 866 个
 
 | 代码        | 图片    |
-| --------   | -----:   |
+| --------   | -----   |
 | +1       | ![+1](https://assets-cdn.github.com/images/icons/emoji/+1.png)   | 
 | 100 | ![100](https://assets-cdn.github.com/images/icons/emoji/100.png) | 
 | 1234 | ![1234](https://assets-cdn.github.com/images/icons/emoji/1234.png) | 
