@@ -1,6 +1,8 @@
 #  所有 emoji 和对应的图片，共 866 个
   
+ 
   +1![100](https://assets-cdn.github.com/images/icons/emoji/+1.png)
+  
   100![100](https://assets-cdn.github.com/images/icons/emoji/100.png)
 
   1234![1234](https://assets-cdn.github.com/images/icons/emoji/1234.png)
@@ -1469,5 +1471,302 @@
 
   squirrel![squirrel](https://assets-cdn.github.com/images/icons/emoji/squirrel.png)
 
-  star![star](https://assets-cdn.github.com/images/icons/emoji/
-  
+  star![star](https://assets-cdn.github.com/images/icons/emoji/star.png)
+
+  star2![star2](https://assets-cdn.github.com/images/icons/emoji/star2.png)
+
+  stars![stars](https://assets-cdn.github.com/images/icons/emoji/stars.png)
+
+  station![station](https://assets-cdn.github.com/images/icons/emoji/station.png)
+
+  statue_of_liberty![statue_of_liberty](https://assets-cdn.github.com/images/icons/emoji/statue_of_liberty.png)
+
+  steam_locomotive![steam_locomotive](https://assets-cdn.github.com/images/icons/emoji/steam_locomotive.png)
+
+  stew![stew](https://assets-cdn.github.com/images/icons/emoji/stew.png)
+
+  straight_ruler![straight_ruler](https://assets-cdn.github.com/images/icons/emoji/straight_ruler.png)
+
+  strawberry![strawberry](https://assets-cdn.github.com/images/icons/emoji/strawberry.png)
+
+  stuck_out_tongue![stuck_out_tongue](https://assets-cdn.github.com/images/icons/emoji/stuck_out_tongue.png)
+
+  stuck_out_tongue_closed_eyes![stuck_out_tongue_closed_eyes](https://assets-cdn.github.com/images/icons/emoji/stuck_out_tongue_closed_eyes.png)
+
+  stuck_out_tongue_winking_eye![stuck_out_tongue_winking_eye](https://assets-cdn.github.com/images/icons/emoji/stuck_out_tongue_winking_eye.png)
+
+  sun_with_face![sun_with_face](https://assets-cdn.github.com/images/icons/emoji/sun_with_face.png)
+
+  sunflower![sunflower](https://assets-cdn.github.com/images/icons/emoji/sunflower.png)
+
+  sunglasses![sunglasses](https://assets-cdn.github.com/images/icons/emoji/sunglasses.png)
+
+  sunny![sunny](https://assets-cdn.github.com/images/icons/emoji/sunny.png)
+
+  sunrise![sunrise](https://assets-cdn.github.com/images/icons/emoji/sunrise.png)
+
+  sunrise_over_mountains![sunrise_over_mountains](https://assets-cdn.github.com/images/icons/emoji/sunrise_over_mountains.png)
+
+  surfer![surfer](https://assets-cdn.github.com/images/icons/emoji/surfer.png)
+
+  sushi![sushi](https://assets-cdn.github.com/images/icons/emoji/sushi.png)
+
+  suspect![suspect](https://assets-cdn.github.com/images/icons/emoji/suspect.png)
+
+  suspension_railway![suspension_railway](https://assets-cdn.github.com/images/icons/emoji/suspension_railway.png)
+
+  sweat![sweat](https://assets-cdn.github.com/images/icons/emoji/sweat.png)
+
+  sweat_drops![sweat_drops](https://assets-cdn.github.com/images/icons/emoji/sweat_drops.png)
+
+  sweat_smile![sweat_smile](https://assets-cdn.github.com/images/icons/emoji/sweat_smile.png)
+
+  sweet_potato![sweet_potato](https://assets-cdn.github.com/images/icons/emoji/sweet_potato.png)
+
+  swimmer![swimmer](https://assets-cdn.github.com/images/icons/emoji/swimmer.png)
+
+  symbols![symbols](https://assets-cdn.github.com/images/icons/emoji/symbols.png)
+
+  syringe![syringe](https://assets-cdn.github.com/images/icons/emoji/syringe.png)
+
+  tada![tada](https://assets-cdn.github.com/images/icons/emoji/tada.png)
+
+  tanabata_tree![tanabata_tree](https://assets-cdn.github.com/images/icons/emoji/tanabata_tree.png)
+
+  tangerine![tangerine](https://assets-cdn.github.com/images/icons/emoji/tangerine.png)
+
+  taurus![taurus](https://assets-cdn.github.com/images/icons/emoji/taurus.png)
+
+  taxi![taxi](https://assets-cdn.github.com/images/icons/emoji/taxi.png)
+
+  tea![tea](https://assets-cdn.github.com/images/icons/emoji/tea.png)
+
+  telephone![telephone](https://assets-cdn.github.com/images/icons/emoji/telephone.png)
+
+  telephone_receiver![telephone_receiver](https://assets-cdn.github.com/images/icons/emoji/telephone_receiver.png)
+
+  telescope![telescope](https://assets-cdn.github.com/images/icons/emoji/telescope.png)
+
+  tennis![tennis](https://assets-cdn.github.com/images/icons/emoji/tennis.png)
+
+  tent![tent](https://assets-cdn.github.com/images/icons/emoji/tent.png)
+
+  thought_balloon![thought_balloon](https://assets-cdn.github.com/images/icons/emoji/thought_balloon.png)
+
+  three![three](https://assets-cdn.github.com/images/icons/emoji/three.png)
+
+  thumbsdown![thumbsdown](https://assets-cdn.github.com/images/icons/emoji/thumbsdown.png)
+
+  thumbsup![thumbsup](https://assets-cdn.github.com/images/icons/emoji/thumbsup.png)
+
+  ticket![ticket](https://assets-cdn.github.com/images/icons/emoji/ticket.png)
+
+  tiger![tiger](https://assets-cdn.github.com/images/icons/emoji/tiger.png)
+
+  tiger2![tiger2](https://assets-cdn.github.com/images/icons/emoji/tiger2.png)
+
+  tired_face![tired_face](https://assets-cdn.github.com/images/icons/emoji/tired_face.png)
+
+  tm![tm](https://assets-cdn.github.com/images/icons/emoji/tm.png)
+
+  toilet![toilet](https://assets-cdn.github.com/images/icons/emoji/toilet.png)
+
+  tokyo_tower![tokyo_tower](https://assets-cdn.github.com/images/icons/emoji/tokyo_tower.png)
+
+  tomato![tomato](https://assets-cdn.github.com/images/icons/emoji/tomato.png)
+
+  tongue![tongue](https://assets-cdn.github.com/images/icons/emoji/tongue.png)
+
+  top![top](https://assets-cdn.github.com/images/icons/emoji/top.png)
+
+  tophat![tophat](https://assets-cdn.github.com/images/icons/emoji/tophat.png)
+
+  tractor![tractor](https://assets-cdn.github.com/images/icons/emoji/tractor.png)
+
+  traffic_light![traffic_light](https://assets-cdn.github.com/images/icons/emoji/traffic_light.png)
+
+  train![train](https://assets-cdn.github.com/images/icons/emoji/train.png)
+
+  train2![train2](https://assets-cdn.github.com/images/icons/emoji/train2.png)
+
+  tram![tram](https://assets-cdn.github.com/images/icons/emoji/tram.png)
+
+  triangular_flag_on_post![triangular_flag_on_post](https://assets-cdn.github.com/images/icons/emoji/triangular_flag_on_post.png)
+
+  triangular_ruler![triangular_ruler](https://assets-cdn.github.com/images/icons/emoji/triangular_ruler.png)
+
+  trident![trident](https://assets-cdn.github.com/images/icons/emoji/trident.png)
+
+  triumph![triumph](https://assets-cdn.github.com/images/icons/emoji/triumph.png)
+
+  trolleybus![trolleybus](https://assets-cdn.github.com/images/icons/emoji/trolleybus.png)
+
+  trollface![trollface](https://assets-cdn.github.com/images/icons/emoji/trollface.png)
+
+  trophy![trophy](https://assets-cdn.github.com/images/icons/emoji/trophy.png)
+
+  tropical_drink![tropical_drink](https://assets-cdn.github.com/images/icons/emoji/tropical_drink.png)
+
+  tropical_fish![tropical_fish](https://assets-cdn.github.com/images/icons/emoji/tropical_fish.png)
+
+  truck![truck](https://assets-cdn.github.com/images/icons/emoji/truck.png)
+
+  trumpet![trumpet](https://assets-cdn.github.com/images/icons/emoji/trumpet.png)
+
+  tshirt![tshirt](https://assets-cdn.github.com/images/icons/emoji/tshirt.png)
+
+  tulip![tulip](https://assets-cdn.github.com/images/icons/emoji/tulip.png)
+
+  turtle![turtle](https://assets-cdn.github.com/images/icons/emoji/turtle.png)
+
+  tv![tv](https://assets-cdn.github.com/images/icons/emoji/tv.png)
+
+  twisted_rightwards_arrows![twisted_rightwards_arrows](https://assets-cdn.github.com/images/icons/emoji/twisted_rightwards_arrows.png)
+
+  two![two](https://assets-cdn.github.com/images/icons/emoji/two.png)
+
+  two_hearts![two_hearts](https://assets-cdn.github.com/images/icons/emoji/two_hearts.png)
+
+  two_men_holding_hands![two_men_holding_hands](https://assets-cdn.github.com/images/icons/emoji/two_men_holding_hands.png)
+
+  two_women_holding_hands![two_women_holding_hands](https://assets-cdn.github.com/images/icons/emoji/two_women_holding_hands.png)
+
+  u5272![u5272](https://assets-cdn.github.com/images/icons/emoji/u5272.png)
+
+  u5408![u5408](https://assets-cdn.github.com/images/icons/emoji/u5408.png)
+
+  u55b6![u55b6](https://assets-cdn.github.com/images/icons/emoji/u55b6.png)
+
+  u6307![u6307](https://assets-cdn.github.com/images/icons/emoji/u6307.png)
+
+  u6708![u6708](https://assets-cdn.github.com/images/icons/emoji/u6708.png)
+
+  u6709![u6709](https://assets-cdn.github.com/images/icons/emoji/u6709.png)
+
+  u6e80![u6e80](https://assets-cdn.github.com/images/icons/emoji/u6e80.png)
+
+  u7121![u7121](https://assets-cdn.github.com/images/icons/emoji/u7121.png)
+
+  u7533![u7533](https://assets-cdn.github.com/images/icons/emoji/u7533.png)
+
+  u7981![u7981](https://assets-cdn.github.com/images/icons/emoji/u7981.png)
+
+  u7a7a![u7a7a](https://assets-cdn.github.com/images/icons/emoji/u7a7a.png)
+
+  uk![uk](https://assets-cdn.github.com/images/icons/emoji/uk.png)
+
+  umbrella![umbrella](https://assets-cdn.github.com/images/icons/emoji/umbrella.png)
+
+  unamused![unamused](https://assets-cdn.github.com/images/icons/emoji/unamused.png)
+
+  underage![underage](https://assets-cdn.github.com/images/icons/emoji/underage.png)
+
+  unlock![unlock](https://assets-cdn.github.com/images/icons/emoji/unlock.png)
+
+  up![up](https://assets-cdn.github.com/images/icons/emoji/up.png)
+
+  us![us](https://assets-cdn.github.com/images/icons/emoji/us.png)
+
+  v![v](https://assets-cdn.github.com/images/icons/emoji/v.png)
+
+  vertical_traffic_light![vertical_traffic_light](https://assets-cdn.github.com/images/icons/emoji/vertical_traffic_light.png)
+
+  vhs![vhs](https://assets-cdn.github.com/images/icons/emoji/vhs.png)
+
+  vibration_mode![vibration_mode](https://assets-cdn.github.com/images/icons/emoji/vibration_mode.png)
+
+  video_camera![video_camera](https://assets-cdn.github.com/images/icons/emoji/video_camera.png)
+
+  video_game![video_game](https://assets-cdn.github.com/images/icons/emoji/video_game.png)
+
+  violin![violin](https://assets-cdn.github.com/images/icons/emoji/violin.png)
+
+  virgo![virgo](https://assets-cdn.github.com/images/icons/emoji/virgo.png)
+
+  volcano![volcano](https://assets-cdn.github.com/images/icons/emoji/volcano.png)
+
+  vs![vs](https://assets-cdn.github.com/images/icons/emoji/vs.png)
+
+  walking![walking](https://assets-cdn.github.com/images/icons/emoji/walking.png)
+
+  waning_crescent_moon![waning_crescent_moon](https://assets-cdn.github.com/images/icons/emoji/waning_crescent_moon.png)
+
+  waning_gibbous_moon![waning_gibbous_moon](https://assets-cdn.github.com/images/icons/emoji/waning_gibbous_moon.png)
+
+  warning![warning](https://assets-cdn.github.com/images/icons/emoji/warning.png)
+
+  watch![watch](https://assets-cdn.github.com/images/icons/emoji/watch.png)
+
+  water_buffalo![water_buffalo](https://assets-cdn.github.com/images/icons/emoji/water_buffalo.png)
+
+  watermelon![watermelon](https://assets-cdn.github.com/images/icons/emoji/watermelon.png)
+
+  wave![wave](https://assets-cdn.github.com/images/icons/emoji/wave.png)
+
+  wavy_dash![wavy_dash](https://assets-cdn.github.com/images/icons/emoji/wavy_dash.png)
+
+  waxing_crescent_moon![waxing_crescent_moon](https://assets-cdn.github.com/images/icons/emoji/waxing_crescent_moon.png)
+
+  waxing_gibbous_moon![waxing_gibbous_moon](https://assets-cdn.github.com/images/icons/emoji/waxing_gibbous_moon.png)
+
+  wc![wc](https://assets-cdn.github.com/images/icons/emoji/wc.png)
+
+  weary![weary](https://assets-cdn.github.com/images/icons/emoji/weary.png)
+
+  wedding![wedding](https://assets-cdn.github.com/images/icons/emoji/wedding.png)
+
+  whale![whale](https://assets-cdn.github.com/images/icons/emoji/whale.png)
+
+  whale2![whale2](https://assets-cdn.github.com/images/icons/emoji/whale2.png)
+
+  wheelchair![wheelchair](https://assets-cdn.github.com/images/icons/emoji/wheelchair.png)
+
+  white_check_mark![white_check_mark](https://assets-cdn.github.com/images/icons/emoji/white_check_mark.png)
+
+  white_circle![white_circle](https://assets-cdn.github.com/images/icons/emoji/white_circle.png)
+
+  white_flower![white_flower](https://assets-cdn.github.com/images/icons/emoji/white_flower.png)
+
+  white_large_square![white_large_square](https://assets-cdn.github.com/images/icons/emoji/white_large_square.png)
+
+  white_medium_small_square![white_medium_small_square](https://assets-cdn.github.com/images/icons/emoji/white_medium_small_square.png)
+
+  white_medium_square![white_medium_square](https://assets-cdn.github.com/images/icons/emoji/white_medium_square.png)
+
+  white_small_square![white_small_square](https://assets-cdn.github.com/images/icons/emoji/white_small_square.png)
+
+  white_square_button![white_square_button](https://assets-cdn.github.com/images/icons/emoji/white_square_button.png)
+
+  wind_chime![wind_chime](https://assets-cdn.github.com/images/icons/emoji/wind_chime.png)
+
+  wine_glass![wine_glass](https://assets-cdn.github.com/images/icons/emoji/wine_glass.png)
+
+  wink![wink](https://assets-cdn.github.com/images/icons/emoji/wink.png)
+
+  wolf![wolf](https://assets-cdn.github.com/images/icons/emoji/wolf.png)
+
+  woman![woman](https://assets-cdn.github.com/images/icons/emoji/woman.png)
+
+  womans_clothes![womans_clothes](https://assets-cdn.github.com/images/icons/emoji/womans_clothes.png)
+
+  womans_hat![womans_hat](https://assets-cdn.github.com/images/icons/emoji/womans_hat.png)
+
+  womens![womens](https://assets-cdn.github.com/images/icons/emoji/womens.png)
+
+  worried![worried](https://assets-cdn.github.com/images/icons/emoji/worried.png)
+
+  wrench![wrench](https://assets-cdn.github.com/images/icons/emoji/wrench.png)
+
+  x![x](https://assets-cdn.github.com/images/icons/emoji/x.png)
+
+  yellow_heart![yellow_heart](https://assets-cdn.github.com/images/icons/emoji/yellow_heart.png)
+
+  yen![yen](https://assets-cdn.github.com/images/icons/emoji/yen.png)
+
+  yum![yum](https://assets-cdn.github.com/images/icons/emoji/yum.png)
+
+  zap![zap](https://assets-cdn.github.com/images/icons/emoji/zap.png)
+
+  zero![zero](https://assets-cdn.github.com/images/icons/emoji/zero.png)
+
+  zzz![zzz](https://assets-cdn.github.com/images/icons/emoji/zzz.png)
