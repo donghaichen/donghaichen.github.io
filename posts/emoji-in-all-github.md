@@ -1,1775 +1,1473 @@
 #  所有 emoji 和对应的图片，共 866 个
+  
+  +1![100](https://assets-cdn.github.com/images/icons/emoji/+1.png)
+  100![100](https://assets-cdn.github.com/images/icons/emoji/100.png)
 
-  +1:+1:
-  100:100:
+  1234![1234](https://assets-cdn.github.com/images/icons/emoji/1234.png)
 
-  1234:1234:
+  8ball![8ball](https://assets-cdn.github.com/images/icons/emoji/8ball.png)
 
-  8ball:8ball:
+  a![a](https://assets-cdn.github.com/images/icons/emoji/a.png)
 
-  a:a:
+  ab![ab](https://assets-cdn.github.com/images/icons/emoji/ab.png)
 
-  ab:ab:
+  abc![abc](https://assets-cdn.github.com/images/icons/emoji/abc.png)
 
-  abc:abc:
+  abcd![abcd](https://assets-cdn.github.com/images/icons/emoji/abcd.png)
 
-  abcd:abcd:
+  accept![accept](https://assets-cdn.github.com/images/icons/emoji/accept.png)
 
-  accept:accept:
+  aerial_tramway![aerial_tramway](https://assets-cdn.github.com/images/icons/emoji/aerial_tramway.png)
 
-  aerial_tramway:aerial_tramway:
+  airplane![airplane](https://assets-cdn.github.com/images/icons/emoji/airplane.png)
 
-  airplane:airplane:
+  alarm_clock![alarm_clock](https://assets-cdn.github.com/images/icons/emoji/alarm_clock.png)
 
-  alarm_clock:alarm_clock:
+  alien![alien](https://assets-cdn.github.com/images/icons/emoji/alien.png)
 
-  alien:alien:
+  ambulance![ambulance](https://assets-cdn.github.com/images/icons/emoji/ambulance.png)
 
-  ambulance:ambulance:
+  anchor![anchor](https://assets-cdn.github.com/images/icons/emoji/anchor.png)
 
-  anchor:anchor:
+  angel![angel](https://assets-cdn.github.com/images/icons/emoji/angel.png)
 
-  angel:angel:
+  anger![anger](https://assets-cdn.github.com/images/icons/emoji/anger.png)
 
-  anger:anger:
+  angry![angry](https://assets-cdn.github.com/images/icons/emoji/angry.png)
 
-  angry:angry:
+  anguished![anguished](https://assets-cdn.github.com/images/icons/emoji/anguished.png)
 
-  anguished:anguished:
+  ant![ant](https://assets-cdn.github.com/images/icons/emoji/ant.png)
 
-  ant:ant:
+  apple![apple](https://assets-cdn.github.com/images/icons/emoji/apple.png)
 
-  apple:apple:
+  aquarius![aquarius](https://assets-cdn.github.com/images/icons/emoji/aquarius.png)
 
-  aquarius:aquarius:
+  aries![aries](https://assets-cdn.github.com/images/icons/emoji/aries.png)
 
-  aries:aries:
+  arrow_backward![arrow_backward](https://assets-cdn.github.com/images/icons/emoji/arrow_backward.png)
 
-  arrow_backward:arrow_backward:
+  arrow_double_down![arrow_double_down](https://assets-cdn.github.com/images/icons/emoji/arrow_double_down.png)
 
-  arrow_double_down:arrow_double_down:
+  arrow_double_up![arrow_double_up](https://assets-cdn.github.com/images/icons/emoji/arrow_double_up.png)
 
-  arrow_double_up:arrow_double_up:
+  arrow_down![arrow_down](https://assets-cdn.github.com/images/icons/emoji/arrow_down.png)
 
-  arrow_down:arrow_down:
+  arrow_down_small![arrow_down_small](https://assets-cdn.github.com/images/icons/emoji/arrow_down_small.png)
 
-  arrow_down_small:arrow_down_small:
+  arrow_forward![arrow_forward](https://assets-cdn.github.com/images/icons/emoji/arrow_forward.png)
 
-  arrow_forward:arrow_forward:
+  arrow_heading_down![arrow_heading_down](https://assets-cdn.github.com/images/icons/emoji/arrow_heading_down.png)
 
-  arrow_heading_down:arrow_heading_down:
+  arrow_heading_up![arrow_heading_up](https://assets-cdn.github.com/images/icons/emoji/arrow_heading_up.png)
 
-  arrow_heading_up:arrow_heading_up:
+  arrow_left![arrow_left](https://assets-cdn.github.com/images/icons/emoji/arrow_left.png)
 
-  arrow_left:arrow_left:
+  arrow_lower_left![arrow_lower_left](https://assets-cdn.github.com/images/icons/emoji/arrow_lower_left.png)
 
-  arrow_lower_left:arrow_lower_left:
+  arrow_lower_right![arrow_lower_right](https://assets-cdn.github.com/images/icons/emoji/arrow_lower_right.png)
 
-  arrow_lower_right:arrow_lower_right:
+  arrow_right![arrow_right](https://assets-cdn.github.com/images/icons/emoji/arrow_right.png)
 
-  arrow_right:arrow_right:
+  arrow_right_hook![arrow_right_hook](https://assets-cdn.github.com/images/icons/emoji/arrow_right_hook.png)
 
-  arrow_right_hook:arrow_right_hook:
+  arrow_up![arrow_up](https://assets-cdn.github.com/images/icons/emoji/arrow_up.png)
 
-  arrow_up:arrow_up:
+  arrow_up_down![arrow_up_down](https://assets-cdn.github.com/images/icons/emoji/arrow_up_down.png)
 
-  arrow_up_down:arrow_up_down:
+  arrow_up_small![arrow_up_small](https://assets-cdn.github.com/images/icons/emoji/arrow_up_small.png)
 
-  arrow_up_small:arrow_up_small:
+  arrow_upper_left![arrow_upper_left](https://assets-cdn.github.com/images/icons/emoji/arrow_upper_left.png)
 
-  arrow_upper_left:arrow_upper_left:
+  arrow_upper_right![arrow_upper_right](https://assets-cdn.github.com/images/icons/emoji/arrow_upper_right.png)
 
-  arrow_upper_right:arrow_upper_right:
+  arrows_clockwise![arrows_clockwise](https://assets-cdn.github.com/images/icons/emoji/arrows_clockwise.png)
 
-  arrows_clockwise:arrows_clockwise:
+  arrows_counterclockwise![arrows_counterclockwise](https://assets-cdn.github.com/images/icons/emoji/arrows_counterclockwise.png)
 
-  arrows_counterclockwise:arrows_counterclockwise:
+  art![art](https://assets-cdn.github.com/images/icons/emoji/art.png)
 
-  art:art:
+  articulated_lorry![articulated_lorry](https://assets-cdn.github.com/images/icons/emoji/articulated_lorry.png)
 
-  articulated_lorry:articulated_lorry:
+  astonished![astonished](https://assets-cdn.github.com/images/icons/emoji/astonished.png)
 
-  astonished:astonished:
+  athletic_shoe![athletic_shoe](https://assets-cdn.github.com/images/icons/emoji/athletic_shoe.png)
 
-  athletic_shoe:athletic_shoe:
+  atm![atm](https://assets-cdn.github.com/images/icons/emoji/atm.png)
 
-  atm:atm:
+  b![b](https://assets-cdn.github.com/images/icons/emoji/b.png)
 
-  b:b:
+  baby![baby](https://assets-cdn.github.com/images/icons/emoji/baby.png)
 
-  baby:baby:
+  baby_bottle![baby_bottle](https://assets-cdn.github.com/images/icons/emoji/baby_bottle.png)
 
-  baby_bottle:baby_bottle:
+  baby_chick![baby_chick](https://assets-cdn.github.com/images/icons/emoji/baby_chick.png)
 
-  baby_chick:baby_chick:
+  baby_symbol![baby_symbol](https://assets-cdn.github.com/images/icons/emoji/baby_symbol.png)
 
-  baby_symbol:baby_symbol:
+  back![back](https://assets-cdn.github.com/images/icons/emoji/back.png)
 
-  back:back:
+  baggage_claim![baggage_claim](https://assets-cdn.github.com/images/icons/emoji/baggage_claim.png)
 
-  baggage_claim:baggage_claim:
+  balloon![balloon](https://assets-cdn.github.com/images/icons/emoji/balloon.png)
 
-  balloon:balloon:
+  ballot_box_with_check![ballot_box_with_check](https://assets-cdn.github.com/images/icons/emoji/ballot_box_with_check.png)
 
-  ballot_box_with_check:ballot_box_with_check:
+  bamboo![bamboo](https://assets-cdn.github.com/images/icons/emoji/bamboo.png)
 
-  bamboo:bamboo:
+  banana![banana](https://assets-cdn.github.com/images/icons/emoji/banana.png)
 
-  banana:banana:
+  bangbang![bangbang](https://assets-cdn.github.com/images/icons/emoji/bangbang.png)
 
-  bangbang:bangbang:
+  bank![bank](https://assets-cdn.github.com/images/icons/emoji/bank.png)
 
-  bank:bank:
+  bar_chart![bar_chart](https://assets-cdn.github.com/images/icons/emoji/bar_chart.png)
 
-  bar_chart:bar_chart:
+  barber![barber](https://assets-cdn.github.com/images/icons/emoji/barber.png)
 
-  barber:barber:
+  baseball![baseball](https://assets-cdn.github.com/images/icons/emoji/baseball.png)
 
-  baseball:baseball:
+  basketball![basketball](https://assets-cdn.github.com/images/icons/emoji/basketball.png)
 
-  basketball:basketball:
+  bath![bath](https://assets-cdn.github.com/images/icons/emoji/bath.png)
 
-  bath:bath:
+  bathtub![bathtub](https://assets-cdn.github.com/images/icons/emoji/bathtub.png)
 
-  bathtub:bathtub:
+  battery![battery](https://assets-cdn.github.com/images/icons/emoji/battery.png)
 
-  battery:battery:
+  bear![bear](https://assets-cdn.github.com/images/icons/emoji/bear.png)
 
-  bear:bear:
+  bee![bee](https://assets-cdn.github.com/images/icons/emoji/bee.png)
 
-  bee:bee:
+  beer![beer](https://assets-cdn.github.com/images/icons/emoji/beer.png)
 
-  beer:beer:
+  beers![beers](https://assets-cdn.github.com/images/icons/emoji/beers.png)
 
-  beers:beers:
+  beetle![beetle](https://assets-cdn.github.com/images/icons/emoji/beetle.png)
 
-  beetle:beetle:
+  beginner![beginner](https://assets-cdn.github.com/images/icons/emoji/beginner.png)
 
-  beginner:beginner:
+  bell![bell](https://assets-cdn.github.com/images/icons/emoji/bell.png)
 
-  bell:bell:
+  bento![bento](https://assets-cdn.github.com/images/icons/emoji/bento.png)
 
-  bento:bento:
+  bicyclist![bicyclist](https://assets-cdn.github.com/images/icons/emoji/bicyclist.png)
 
-  bicyclist:bicyclist:
+  bike![bike](https://assets-cdn.github.com/images/icons/emoji/bike.png)
 
-  bike:bike:
+  bikini![bikini](https://assets-cdn.github.com/images/icons/emoji/bikini.png)
 
-  bikini:bikini:
+  bird![bird](https://assets-cdn.github.com/images/icons/emoji/bird.png)
 
-  bird:bird:
+  birthday![birthday](https://assets-cdn.github.com/images/icons/emoji/birthday.png)
 
-  birthday:birthday:
+  black_circle![black_circle](https://assets-cdn.github.com/images/icons/emoji/black_circle.png)
 
-  black_circle:black_circle:
+  black_joker![black_joker](https://assets-cdn.github.com/images/icons/emoji/black_joker.png)
 
-  black_joker:black_joker:
+  black_large_square![black_large_square](https://assets-cdn.github.com/images/icons/emoji/black_large_square.png)
 
-  black_large_square:black_large_square:
+  black_medium_small_square![black_medium_small_square](https://assets-cdn.github.com/images/icons/emoji/black_medium_small_square.png)
 
-  black_medium_small_square:black_medium_small_square:
+  black_medium_square![black_medium_square](https://assets-cdn.github.com/images/icons/emoji/black_medium_square.png)
 
-  black_medium_square:black_medium_square:
+  black_nib![black_nib](https://assets-cdn.github.com/images/icons/emoji/black_nib.png)
 
-  black_nib:black_nib:
+  black_small_square![black_small_square](https://assets-cdn.github.com/images/icons/emoji/black_small_square.png)
 
-  black_small_square:black_small_square:
+  black_square_button![black_square_button](https://assets-cdn.github.com/images/icons/emoji/black_square_button.png)
 
-  black_square_button:black_square_button:
+  blossom![blossom](https://assets-cdn.github.com/images/icons/emoji/blossom.png)
 
-  blossom:blossom:
+  blowfish![blowfish](https://assets-cdn.github.com/images/icons/emoji/blowfish.png)
 
-  blowfish:blowfish:
+  blue_book![blue_book](https://assets-cdn.github.com/images/icons/emoji/blue_book.png)
 
-  blue_book:blue_book:
+  blue_car![blue_car](https://assets-cdn.github.com/images/icons/emoji/blue_car.png)
 
-  blue_car:blue_car:
+  blue_heart![blue_heart](https://assets-cdn.github.com/images/icons/emoji/blue_heart.png)
 
-  blue_heart:blue_heart:
+  blush![blush](https://assets-cdn.github.com/images/icons/emoji/blush.png)
 
-  blush:blush:
+  boar![boar](https://assets-cdn.github.com/images/icons/emoji/boar.png)
 
-  boar:boar:
+  boat![boat](https://assets-cdn.github.com/images/icons/emoji/boat.png)
 
-  boat:boat:
+  bomb![bomb](https://assets-cdn.github.com/images/icons/emoji/bomb.png)
 
-  bomb:bomb:
+  book![book](https://assets-cdn.github.com/images/icons/emoji/book.png)
 
-  book:book:
+  bookmark![bookmark](https://assets-cdn.github.com/images/icons/emoji/bookmark.png)
 
-  bookmark:bookmark:
+  bookmark_tabs![bookmark_tabs](https://assets-cdn.github.com/images/icons/emoji/bookmark_tabs.png)
 
-  bookmark_tabs:bookmark_tabs:
+  books![books](https://assets-cdn.github.com/images/icons/emoji/books.png)
 
-  books:books:
+  boom![boom](https://assets-cdn.github.com/images/icons/emoji/boom.png)
 
-  boom:boom:
+  boot![boot](https://assets-cdn.github.com/images/icons/emoji/boot.png)
 
-  boot:boot:
+  bouquet![bouquet](https://assets-cdn.github.com/images/icons/emoji/bouquet.png)
 
-  bouquet:bouquet:
+  bow![bow](https://assets-cdn.github.com/images/icons/emoji/bow.png)
 
-  bow:bow:
+  bowling![bowling](https://assets-cdn.github.com/images/icons/emoji/bowling.png)
 
-  bowling:bowling:
+  bowtie![bowtie](https://assets-cdn.github.com/images/icons/emoji/bowtie.png)
 
-  bowtie:bowtie:
+  boy![boy](https://assets-cdn.github.com/images/icons/emoji/boy.png)
 
-  boy:boy:
+  bread![bread](https://assets-cdn.github.com/images/icons/emoji/bread.png)
 
-  bread:bread:
+  bride_with_veil![bride_with_veil](https://assets-cdn.github.com/images/icons/emoji/bride_with_veil.png)
 
-  bride_with_veil:bride_with_veil:
+  bridge_at_night![bridge_at_night](https://assets-cdn.github.com/images/icons/emoji/bridge_at_night.png)
 
-  bridge_at_night:bridge_at_night:
+  briefcase![briefcase](https://assets-cdn.github.com/images/icons/emoji/briefcase.png)
 
-  briefcase:briefcase:
+  broken_heart![broken_heart](https://assets-cdn.github.com/images/icons/emoji/broken_heart.png)
 
-  broken_heart:broken_heart:
+  bug![bug](https://assets-cdn.github.com/images/icons/emoji/bug.png)
 
-  bug:bug:
+  bulb![bulb](https://assets-cdn.github.com/images/icons/emoji/bulb.png)
 
-  bulb:bulb:
+  bullettrain_front![bullettrain_front](https://assets-cdn.github.com/images/icons/emoji/bullettrain_front.png)
 
-  bullettrain_front:bullettrain_front:
+  bullettrain_side![bullettrain_side](https://assets-cdn.github.com/images/icons/emoji/bullettrain_side.png)
 
-  bullettrain_side:bullettrain_side:
+  bus![bus](https://assets-cdn.github.com/images/icons/emoji/bus.png)
 
-  bus:bus:
+  busstop![busstop](https://assets-cdn.github.com/images/icons/emoji/busstop.png)
 
-  busstop:busstop:
+  bust_in_silhouette![bust_in_silhouette](https://assets-cdn.github.com/images/icons/emoji/bust_in_silhouette.png)
 
-  bust_in_silhouette:bust_in_silhouette:
+  busts_in_silhouette![busts_in_silhouette](https://assets-cdn.github.com/images/icons/emoji/busts_in_silhouette.png)
 
-  busts_in_silhouette:busts_in_silhouette:
+  cactus![cactus](https://assets-cdn.github.com/images/icons/emoji/cactus.png)
 
-  cactus:cactus:
+  cake![cake](https://assets-cdn.github.com/images/icons/emoji/cake.png)
 
-  cake:cake:
+  calendar![calendar](https://assets-cdn.github.com/images/icons/emoji/calendar.png)
 
-  calendar:calendar:
+  calling![calling](https://assets-cdn.github.com/images/icons/emoji/calling.png)
 
-  calling:calling:
+  camel![camel](https://assets-cdn.github.com/images/icons/emoji/camel.png)
 
-  camel:camel:
+  camera![camera](https://assets-cdn.github.com/images/icons/emoji/camera.png)
 
-  camera:camera:
+  cancer![cancer](https://assets-cdn.github.com/images/icons/emoji/cancer.png)
 
-  cancer:cancer:
+  candy![candy](https://assets-cdn.github.com/images/icons/emoji/candy.png)
 
-  candy:candy:
+  capital_abcd![capital_abcd](https://assets-cdn.github.com/images/icons/emoji/capital_abcd.png)
 
-  capital_abcd:capital_abcd:
+  capricorn![capricorn](https://assets-cdn.github.com/images/icons/emoji/capricorn.png)
 
-  capricorn:capricorn:
+  car![car](https://assets-cdn.github.com/images/icons/emoji/car.png)
 
-  car:car:
+  card_index![card_index](https://assets-cdn.github.com/images/icons/emoji/card_index.png)
 
-  card_index:card_index:
+  carousel_horse![carousel_horse](https://assets-cdn.github.com/images/icons/emoji/carousel_horse.png)
 
-  carousel_horse:carousel_horse:
+  cat![cat](https://assets-cdn.github.com/images/icons/emoji/cat.png)
 
-  cat:cat:
+  cat2![cat2](https://assets-cdn.github.com/images/icons/emoji/cat2.png)
 
-  cat2:cat2:
+  cd![cd](https://assets-cdn.github.com/images/icons/emoji/cd.png)
 
-  cd:cd:
+  chart![chart](https://assets-cdn.github.com/images/icons/emoji/chart.png)
 
-  chart:chart:
+  chart_with_downwards_trend![chart_with_downwards_trend](https://assets-cdn.github.com/images/icons/emoji/chart_with_downwards_trend.png)
 
-  chart_with_downwards_trend:chart_with_downwards_trend:
+  chart_with_upwards_trend![chart_with_upwards_trend](https://assets-cdn.github.com/images/icons/emoji/chart_with_upwards_trend.png)
 
-  chart_with_upwards_trend:chart_with_upwards_trend:
+  checkered_flag![checkered_flag](https://assets-cdn.github.com/images/icons/emoji/checkered_flag.png)
 
-  checkered_flag:checkered_flag:
+  cherries![cherries](https://assets-cdn.github.com/images/icons/emoji/cherries.png)
 
-  cherries:cherries:
+  cherry_blossom![cherry_blossom](https://assets-cdn.github.com/images/icons/emoji/cherry_blossom.png)
 
-  cherry_blossom:cherry_blossom:
+  chestnut![chestnut](https://assets-cdn.github.com/images/icons/emoji/chestnut.png)
 
-  chestnut:chestnut:
+  chicken![chicken](https://assets-cdn.github.com/images/icons/emoji/chicken.png)
 
-  chicken:chicken:
+  children_crossing![children_crossing](https://assets-cdn.github.com/images/icons/emoji/children_crossing.png)
 
-  children_crossing:children_crossing:
+  chocolate_bar![chocolate_bar](https://assets-cdn.github.com/images/icons/emoji/chocolate_bar.png)
 
-  chocolate_bar:chocolate_bar:
+  christmas_tree![christmas_tree](https://assets-cdn.github.com/images/icons/emoji/christmas_tree.png)
 
-  christmas_tree:christmas_tree:
+  church![church](https://assets-cdn.github.com/images/icons/emoji/church.png)
 
-  church:church:
+  cinema![cinema](https://assets-cdn.github.com/images/icons/emoji/cinema.png)
 
-  cinema:cinema:
+  circus_tent![circus_tent](https://assets-cdn.github.com/images/icons/emoji/circus_tent.png)
 
-  circus_tent:circus_tent:
+  city_sunrise![city_sunrise](https://assets-cdn.github.com/images/icons/emoji/city_sunrise.png)
 
-  city_sunrise:city_sunrise:
+  city_sunset![city_sunset](https://assets-cdn.github.com/images/icons/emoji/city_sunset.png)
 
-  city_sunset:city_sunset:
+  cl![cl](https://assets-cdn.github.com/images/icons/emoji/cl.png)
 
-  cl:cl:
+  clap![clap](https://assets-cdn.github.com/images/icons/emoji/clap.png)
 
-  clap:clap:
+  clapper![clapper](https://assets-cdn.github.com/images/icons/emoji/clapper.png)
 
-  clapper:clapper:
+  clipboard![clipboard](https://assets-cdn.github.com/images/icons/emoji/clipboard.png)
 
-  clipboard:clipboard:
+  clock1![clock1](https://assets-cdn.github.com/images/icons/emoji/clock1.png)
 
-  clock1:clock1:
+  clock10![clock10](https://assets-cdn.github.com/images/icons/emoji/clock10.png)
 
-  clock10:clock10:
+  clock1030![clock1030](https://assets-cdn.github.com/images/icons/emoji/clock1030.png)
 
-  clock1030:clock1030:
+  clock11![clock11](https://assets-cdn.github.com/images/icons/emoji/clock11.png)
 
-  clock11:clock11:
+  clock1130![clock1130](https://assets-cdn.github.com/images/icons/emoji/clock1130.png)
 
-  clock1130:clock1130:
+  clock12![clock12](https://assets-cdn.github.com/images/icons/emoji/clock12.png)
 
-  clock12:clock12:
+  clock1230![clock1230](https://assets-cdn.github.com/images/icons/emoji/clock1230.png)
 
-  clock1230:clock1230:
+  clock130![clock130](https://assets-cdn.github.com/images/icons/emoji/clock130.png)
 
-  clock130:clock130:
+  clock2![clock2](https://assets-cdn.github.com/images/icons/emoji/clock2.png)
 
-  clock2:clock2:
+  clock230![clock230](https://assets-cdn.github.com/images/icons/emoji/clock230.png)
 
-  clock230:clock230:
+  clock3![clock3](https://assets-cdn.github.com/images/icons/emoji/clock3.png)
 
-  clock3:clock3:
+  clock330![clock330](https://assets-cdn.github.com/images/icons/emoji/clock330.png)
 
-  clock330:clock330:
+  clock4![clock4](https://assets-cdn.github.com/images/icons/emoji/clock4.png)
 
-  clock4:clock4:
+  clock430![clock430](https://assets-cdn.github.com/images/icons/emoji/clock430.png)
 
-  clock430:clock430:
+  clock5![clock5](https://assets-cdn.github.com/images/icons/emoji/clock5.png)
 
-  clock5:clock5:
+  clock530![clock530](https://assets-cdn.github.com/images/icons/emoji/clock530.png)
 
-  clock530:clock530:
+  clock6![clock6](https://assets-cdn.github.com/images/icons/emoji/clock6.png)
 
-  clock6:clock6:
+  clock630![clock630](https://assets-cdn.github.com/images/icons/emoji/clock630.png)
 
-  clock630:clock630:
+  clock7![clock7](https://assets-cdn.github.com/images/icons/emoji/clock7.png)
 
-  clock7:clock7:
+  clock730![clock730](https://assets-cdn.github.com/images/icons/emoji/clock730.png)
 
-  clock730:clock730:
+  clock8![clock8](https://assets-cdn.github.com/images/icons/emoji/clock8.png)
 
-  clock8:clock8:
+  clock830![clock830](https://assets-cdn.github.com/images/icons/emoji/clock830.png)
 
-  clock830:clock830:
+  clock9![clock9](https://assets-cdn.github.com/images/icons/emoji/clock9.png)
 
-  clock9:clock9:
+  clock930![clock930](https://assets-cdn.github.com/images/icons/emoji/clock930.png)
 
-  clock930:clock930:
+  closed_book![closed_book](https://assets-cdn.github.com/images/icons/emoji/closed_book.png)
 
-  closed_book:closed_book:
+  closed_lock_with_key![closed_lock_with_key](https://assets-cdn.github.com/images/icons/emoji/closed_lock_with_key.png)
 
-  closed_lock_with_key:closed_lock_with_key:
+  closed_umbrella![closed_umbrella](https://assets-cdn.github.com/images/icons/emoji/closed_umbrella.png)
 
-  closed_umbrella:closed_umbrella:
+  cloud![cloud](https://assets-cdn.github.com/images/icons/emoji/cloud.png)
 
-  cloud:cloud:
+  clubs![clubs](https://assets-cdn.github.com/images/icons/emoji/clubs.png)
 
-  clubs:clubs:
+  cn![cn](https://assets-cdn.github.com/images/icons/emoji/cn.png)
 
-  cn:cn:
+  cocktail![cocktail](https://assets-cdn.github.com/images/icons/emoji/cocktail.png)
 
-  cocktail:cocktail:
+  coffee![coffee](https://assets-cdn.github.com/images/icons/emoji/coffee.png)
 
-  coffee:coffee:
+  cold_sweat![cold_sweat](https://assets-cdn.github.com/images/icons/emoji/cold_sweat.png)
 
-  cold_sweat:cold_sweat:
+  collision![collision](https://assets-cdn.github.com/images/icons/emoji/collision.png)
 
-  collision:collision:
+  computer![computer](https://assets-cdn.github.com/images/icons/emoji/computer.png)
 
-  computer:computer:
+  confetti_ball![confetti_ball](https://assets-cdn.github.com/images/icons/emoji/confetti_ball.png)
 
-  confetti_ball:confetti_ball:
+  confounded![confounded](https://assets-cdn.github.com/images/icons/emoji/confounded.png)
 
-  confounded:confounded:
+  confused![confused](https://assets-cdn.github.com/images/icons/emoji/confused.png)
 
-  confused:confused:
+  congratulations![congratulations](https://assets-cdn.github.com/images/icons/emoji/congratulations.png)
 
-  congratulations:congratulations:
+  construction![construction](https://assets-cdn.github.com/images/icons/emoji/construction.png)
 
-  construction:construction:
+  construction_worker![construction_worker](https://assets-cdn.github.com/images/icons/emoji/construction_worker.png)
 
-  construction_worker:construction_worker:
+  convenience_store![convenience_store](https://assets-cdn.github.com/images/icons/emoji/convenience_store.png)
 
-  convenience_store:convenience_store:
+  cookie![cookie](https://assets-cdn.github.com/images/icons/emoji/cookie.png)
 
-  cookie:cookie:
+  cool![cool](https://assets-cdn.github.com/images/icons/emoji/cool.png)
 
-  cool:cool:
+  cop![cop](https://assets-cdn.github.com/images/icons/emoji/cop.png)
 
-  cop:cop:
+  copyright![copyright](https://assets-cdn.github.com/images/icons/emoji/copyright.png)
 
-  copyright:copyright:
+  corn![corn](https://assets-cdn.github.com/images/icons/emoji/corn.png)
 
-  corn:corn:
+  couple![couple](https://assets-cdn.github.com/images/icons/emoji/couple.png)
 
-  couple:couple:
+  couple_with_heart![couple_with_heart](https://assets-cdn.github.com/images/icons/emoji/couple_with_heart.png)
 
-  couple_with_heart:couple_with_heart:
+  couplekiss![couplekiss](https://assets-cdn.github.com/images/icons/emoji/couplekiss.png)
 
-  couplekiss:couplekiss:
+  cow![cow](https://assets-cdn.github.com/images/icons/emoji/cow.png)
 
-  cow:cow:
+  cow2![cow2](https://assets-cdn.github.com/images/icons/emoji/cow2.png)
 
-  cow2:cow2:
+  credit_card![credit_card](https://assets-cdn.github.com/images/icons/emoji/credit_card.png)
 
-  credit_card:credit_card:
+  crescent_moon![crescent_moon](https://assets-cdn.github.com/images/icons/emoji/crescent_moon.png)
 
-  crescent_moon:crescent_moon:
+  crocodile![crocodile](https://assets-cdn.github.com/images/icons/emoji/crocodile.png)
 
-  crocodile:crocodile:
+  crossed_flags![crossed_flags](https://assets-cdn.github.com/images/icons/emoji/crossed_flags.png)
 
-  crossed_flags:crossed_flags:
+  crown![crown](https://assets-cdn.github.com/images/icons/emoji/crown.png)
 
-  crown:crown:
+  cry![cry](https://assets-cdn.github.com/images/icons/emoji/cry.png)
 
-  cry:cry:
+  crying_cat_face![crying_cat_face](https://assets-cdn.github.com/images/icons/emoji/crying_cat_face.png)
 
-  crying_cat_face:crying_cat_face:
+  crystal_ball![crystal_ball](https://assets-cdn.github.com/images/icons/emoji/crystal_ball.png)
 
-  crystal_ball:crystal_ball:
+  cupid![cupid](https://assets-cdn.github.com/images/icons/emoji/cupid.png)
 
-  cupid:cupid:
+  curly_loop![curly_loop](https://assets-cdn.github.com/images/icons/emoji/curly_loop.png)
 
-  curly_loop:curly_loop:
+  currency_exchange![currency_exchange](https://assets-cdn.github.com/images/icons/emoji/currency_exchange.png)
 
-  currency_exchange:currency_exchange:
+  curry![curry](https://assets-cdn.github.com/images/icons/emoji/curry.png)
 
-  curry:curry:
+  custard![custard](https://assets-cdn.github.com/images/icons/emoji/custard.png)
 
-  custard:custard:
+  customs![customs](https://assets-cdn.github.com/images/icons/emoji/customs.png)
 
-  customs:customs:
+  cyclone![cyclone](https://assets-cdn.github.com/images/icons/emoji/cyclone.png)
 
-  cyclone:cyclone:
+  dancer![dancer](https://assets-cdn.github.com/images/icons/emoji/dancer.png)
 
-  dancer:dancer:
+  dancers![dancers](https://assets-cdn.github.com/images/icons/emoji/dancers.png)
 
-  dancers:dancers:
+  dango![dango](https://assets-cdn.github.com/images/icons/emoji/dango.png)
 
-  dango:dango:
+  dart![dart](https://assets-cdn.github.com/images/icons/emoji/dart.png)
 
-  dart:dart:
+  dash![dash](https://assets-cdn.github.com/images/icons/emoji/dash.png)
 
-  dash:dash:
+  date![date](https://assets-cdn.github.com/images/icons/emoji/date.png)
 
-  date:date:
+  de![de](https://assets-cdn.github.com/images/icons/emoji/de.png)
 
-  de:de:
+  deciduous_tree![deciduous_tree](https://assets-cdn.github.com/images/icons/emoji/deciduous_tree.png)
 
-  deciduous_tree:deciduous_tree:
+  department_store![department_store](https://assets-cdn.github.com/images/icons/emoji/department_store.png)
 
-  department_store:department_store:
+  diamond_shape_with_a_dot_inside![diamond_shape_with_a_dot_inside](https://assets-cdn.github.com/images/icons/emoji/diamond_shape_with_a_dot_inside.png)
 
-  diamond_shape_with_a_dot_inside:diamond_shape_with_a_dot_inside:
+  diamonds![diamonds](https://assets-cdn.github.com/images/icons/emoji/diamonds.png)
 
-  diamonds:diamonds:
+  disappointed![disappointed](https://assets-cdn.github.com/images/icons/emoji/disappointed.png)
 
-  disappointed:disappointed:
+  disappointed_relieved![disappointed_relieved](https://assets-cdn.github.com/images/icons/emoji/disappointed_relieved.png)
 
-  disappointed_relieved:disappointed_relieved:
+  dizzy![dizzy](https://assets-cdn.github.com/images/icons/emoji/dizzy.png)
 
-  dizzy:dizzy:
+  dizzy_face![dizzy_face](https://assets-cdn.github.com/images/icons/emoji/dizzy_face.png)
 
-  dizzy_face:dizzy_face:
+  do_not_litter![do_not_litter](https://assets-cdn.github.com/images/icons/emoji/do_not_litter.png)
 
-  do_not_litter:do_not_litter:
+  dog![dog](https://assets-cdn.github.com/images/icons/emoji/dog.png)
 
-  dog:dog:
+  dog2![dog2](https://assets-cdn.github.com/images/icons/emoji/dog2.png)
 
-  dog2:dog2:
+  dollar![dollar](https://assets-cdn.github.com/images/icons/emoji/dollar.png)
 
-  dollar:dollar:
+  dolls![dolls](https://assets-cdn.github.com/images/icons/emoji/dolls.png)
 
-  dolls:dolls:
+  dolphin![dolphin](https://assets-cdn.github.com/images/icons/emoji/dolphin.png)
 
-  dolphin:dolphin:
+  door![door](https://assets-cdn.github.com/images/icons/emoji/door.png)
 
-  door:door:
+  doughnut![doughnut](https://assets-cdn.github.com/images/icons/emoji/doughnut.png)
 
-  doughnut:doughnut:
+  dragon![dragon](https://assets-cdn.github.com/images/icons/emoji/dragon.png)
 
-  dragon:dragon:
+  dragon_face![dragon_face](https://assets-cdn.github.com/images/icons/emoji/dragon_face.png)
 
-  dragon_face:dragon_face:
+  dress![dress](https://assets-cdn.github.com/images/icons/emoji/dress.png)
 
-  dress:dress:
+  dromedary_camel![dromedary_camel](https://assets-cdn.github.com/images/icons/emoji/dromedary_camel.png)
 
-  dromedary_camel:dromedary_camel:
+  droplet![droplet](https://assets-cdn.github.com/images/icons/emoji/droplet.png)
 
-  droplet:droplet:
-
-  dvd:dvd:
+  dvd![dvd](https://assets-cdn.github.com/images/icons/emoji/dvd.png)
 
   'e-mail'
-  ear:ear:
+  ear![ear](https://assets-cdn.github.com/images/icons/emoji/ear.png)
 
-  ear_of_rice:ear_of_rice:
+  ear_of_rice![ear_of_rice](https://assets-cdn.github.com/images/icons/emoji/ear_of_rice.png)
 
-  earth_africa:earth_africa:
+  earth_africa![earth_africa](https://assets-cdn.github.com/images/icons/emoji/earth_africa.png)
 
-  earth_americas:earth_americas:
+  earth_americas![earth_americas](https://assets-cdn.github.com/images/icons/emoji/earth_americas.png)
 
-  earth_asia:earth_asia:
+  earth_asia![earth_asia](https://assets-cdn.github.com/images/icons/emoji/earth_asia.png)
 
-  egg:egg:
+  egg![egg](https://assets-cdn.github.com/images/icons/emoji/egg.png)
 
-  eggplant:eggplant:
+  eggplant![eggplant](https://assets-cdn.github.com/images/icons/emoji/eggplant.png)
 
-  eight:eight:
+  eight![eight](https://assets-cdn.github.com/images/icons/emoji/eight.png)
 
-  eight_pointed_black_star:eight_pointed_black_star:
+  eight_pointed_black_star![eight_pointed_black_star](https://assets-cdn.github.com/images/icons/emoji/eight_pointed_black_star.png)
 
-  eight_spoked_asterisk:eight_spoked_asterisk:
+  eight_spoked_asterisk![eight_spoked_asterisk](https://assets-cdn.github.com/images/icons/emoji/eight_spoked_asterisk.png)
 
-  electric_plug:electric_plug:
+  electric_plug![electric_plug](https://assets-cdn.github.com/images/icons/emoji/electric_plug.png)
 
-  elephant:elephant:
+  elephant![elephant](https://assets-cdn.github.com/images/icons/emoji/elephant.png)
 
-  email:email:
+  email![email](https://assets-cdn.github.com/images/icons/emoji/email.png)
 
-  end:end:
+  end![end](https://assets-cdn.github.com/images/icons/emoji/end.png)
 
-  envelope:envelope:
+  envelope![envelope](https://assets-cdn.github.com/images/icons/emoji/envelope.png)
 
-  envelope_with_arrow:envelope_with_arrow:
+  envelope_with_arrow![envelope_with_arrow](https://assets-cdn.github.com/images/icons/emoji/envelope_with_arrow.png)
 
-  es:es:
+  es![es](https://assets-cdn.github.com/images/icons/emoji/es.png)
 
-  euro:euro:
+  euro![euro](https://assets-cdn.github.com/images/icons/emoji/euro.png)
 
-  european_castle:european_castle:
+  european_castle![european_castle](https://assets-cdn.github.com/images/icons/emoji/european_castle.png)
 
-  european_post_office:european_post_office:
+  european_post_office![european_post_office](https://assets-cdn.github.com/images/icons/emoji/european_post_office.png)
 
-  evergreen_tree:evergreen_tree:
+  evergreen_tree![evergreen_tree](https://assets-cdn.github.com/images/icons/emoji/evergreen_tree.png)
 
-  exclamation:exclamation:
+  exclamation![exclamation](https://assets-cdn.github.com/images/icons/emoji/exclamation.png)
 
-  expressionless:expressionless:
+  expressionless![expressionless](https://assets-cdn.github.com/images/icons/emoji/expressionless.png)
 
-  eyeglasses:eyeglasses:
+  eyeglasses![eyeglasses](https://assets-cdn.github.com/images/icons/emoji/eyeglasses.png)
 
-  eyes:eyes:
+  eyes![eyes](https://assets-cdn.github.com/images/icons/emoji/eyes.png)
 
-  facepunch:facepunch:
+  facepunch![facepunch](https://assets-cdn.github.com/images/icons/emoji/facepunch.png)
 
-  factory:factory:
+  factory![factory](https://assets-cdn.github.com/images/icons/emoji/factory.png)
 
-  fallen_leaf:fallen_leaf:
+  fallen_leaf![fallen_leaf](https://assets-cdn.github.com/images/icons/emoji/fallen_leaf.png)
 
-  family:family:
+  family![family](https://assets-cdn.github.com/images/icons/emoji/family.png)
 
-  fast_forward:fast_forward:
+  fast_forward![fast_forward](https://assets-cdn.github.com/images/icons/emoji/fast_forward.png)
 
-  fax:fax:
+  fax![fax](https://assets-cdn.github.com/images/icons/emoji/fax.png)
 
-  fearful:fearful:
+  fearful![fearful](https://assets-cdn.github.com/images/icons/emoji/fearful.png)
 
-  feelsgood:feelsgood:
+  feelsgood![feelsgood](https://assets-cdn.github.com/images/icons/emoji/feelsgood.png)
 
-  feet:feet:
+  feet![feet](https://assets-cdn.github.com/images/icons/emoji/feet.png)
 
-  ferris_wheel:ferris_wheel:
+  ferris_wheel![ferris_wheel](https://assets-cdn.github.com/images/icons/emoji/ferris_wheel.png)
 
-  file_folder:file_folder:
+  file_folder![file_folder](https://assets-cdn.github.com/images/icons/emoji/file_folder.png)
 
-  finnadie:finnadie:
+  finnadie![finnadie](https://assets-cdn.github.com/images/icons/emoji/finnadie.png)
 
-  fire:fire:
+  fire![fire](https://assets-cdn.github.com/images/icons/emoji/fire.png)
 
-  fire_engine:fire_engine:
+  fire_engine![fire_engine](https://assets-cdn.github.com/images/icons/emoji/fire_engine.png)
 
-  fireworks:fireworks:
+  fireworks![fireworks](https://assets-cdn.github.com/images/icons/emoji/fireworks.png)
 
-  first_quarter_moon:first_quarter_moon:
+  first_quarter_moon![first_quarter_moon](https://assets-cdn.github.com/images/icons/emoji/first_quarter_moon.png)
 
-  first_quarter_moon_with_face:first_quarter_moon_with_face:
+  first_quarter_moon_with_face![first_quarter_moon_with_face](https://assets-cdn.github.com/images/icons/emoji/first_quarter_moon_with_face.png)
 
-  fish:fish:
+  fish![fish](https://assets-cdn.github.com/images/icons/emoji/fish.png)
 
-  fish_cake:fish_cake:
+  fish_cake![fish_cake](https://assets-cdn.github.com/images/icons/emoji/fish_cake.png)
 
-  fishing_pole_and_fish:fishing_pole_and_fish:
+  fishing_pole_and_fish![fishing_pole_and_fish](https://assets-cdn.github.com/images/icons/emoji/fishing_pole_and_fish.png)
 
-  fist:fist:
+  fist![fist](https://assets-cdn.github.com/images/icons/emoji/fist.png)
 
-  five:five:
+  five![five](https://assets-cdn.github.com/images/icons/emoji/five.png)
 
-  flags:flags:
+  flags![flags](https://assets-cdn.github.com/images/icons/emoji/flags.png)
 
-  flashlight:flashlight:
+  flashlight![flashlight](https://assets-cdn.github.com/images/icons/emoji/flashlight.png)
 
-  flipper:flipper:
+  flipper![flipper](https://assets-cdn.github.com/images/icons/emoji/flipper.png)
 
-  floppy_disk:floppy_disk:
+  floppy_disk![floppy_disk](https://assets-cdn.github.com/images/icons/emoji/floppy_disk.png)
 
-  flower_playing_cards:flower_playing_cards:
+  flower_playing_cards![flower_playing_cards](https://assets-cdn.github.com/images/icons/emoji/flower_playing_cards.png)
 
-  flushed:flushed:
+  flushed![flushed](https://assets-cdn.github.com/images/icons/emoji/flushed.png)
 
-  foggy:foggy:
+  foggy![foggy](https://assets-cdn.github.com/images/icons/emoji/foggy.png)
 
-  football:football:
+  football![football](https://assets-cdn.github.com/images/icons/emoji/football.png)
 
-  footprints:footprints:
+  footprints![footprints](https://assets-cdn.github.com/images/icons/emoji/footprints.png)
 
-  fork_and_knife:fork_and_knife:
+  fork_and_knife![fork_and_knife](https://assets-cdn.github.com/images/icons/emoji/fork_and_knife.png)
 
-  fountain:fountain:
+  fountain![fountain](https://assets-cdn.github.com/images/icons/emoji/fountain.png)
 
-  four:four:
+  four![four](https://assets-cdn.github.com/images/icons/emoji/four.png)
 
-  four_leaf_clover:four_leaf_clover:
+  four_leaf_clover![four_leaf_clover](https://assets-cdn.github.com/images/icons/emoji/four_leaf_clover.png)
 
-  fr:fr:
+  fr![fr](https://assets-cdn.github.com/images/icons/emoji/fr.png)
 
-  free:free:
+  free![free](https://assets-cdn.github.com/images/icons/emoji/free.png)
 
-  fried_shrimp:fried_shrimp:
+  fried_shrimp![fried_shrimp](https://assets-cdn.github.com/images/icons/emoji/fried_shrimp.png)
 
-  fries:fries:
+  fries![fries](https://assets-cdn.github.com/images/icons/emoji/fries.png)
 
-  frog:frog:
+  frog![frog](https://assets-cdn.github.com/images/icons/emoji/frog.png)
 
-  frowning:frowning:
+  frowning![frowning](https://assets-cdn.github.com/images/icons/emoji/frowning.png)
 
-  fu:fu:
+  fu![fu](https://assets-cdn.github.com/images/icons/emoji/fu.png)
 
-  fuelpump:fuelpump:
+  fuelpump![fuelpump](https://assets-cdn.github.com/images/icons/emoji/fuelpump.png)
 
-  full_moon:full_moon:
+  full_moon![full_moon](https://assets-cdn.github.com/images/icons/emoji/full_moon.png)
 
-  full_moon_with_face:full_moon_with_face:
+  full_moon_with_face![full_moon_with_face](https://assets-cdn.github.com/images/icons/emoji/full_moon_with_face.png)
 
-  game_die:game_die:
+  game_die![game_die](https://assets-cdn.github.com/images/icons/emoji/game_die.png)
 
-  gb:gb:
+  gb![gb](https://assets-cdn.github.com/images/icons/emoji/gb.png)
 
-  gem:gem:
+  gem![gem](https://assets-cdn.github.com/images/icons/emoji/gem.png)
 
-  gemini:gemini:
+  gemini![gemini](https://assets-cdn.github.com/images/icons/emoji/gemini.png)
 
-  ghost:ghost:
+  ghost![ghost](https://assets-cdn.github.com/images/icons/emoji/ghost.png)
 
-  gift:gift:
+  gift![gift](https://assets-cdn.github.com/images/icons/emoji/gift.png)
 
-  gift_heart:gift_heart:
+  gift_heart![gift_heart](https://assets-cdn.github.com/images/icons/emoji/gift_heart.png)
 
-  girl:girl:
+  girl![girl](https://assets-cdn.github.com/images/icons/emoji/girl.png)
 
-  globe_with_meridians:globe_with_meridians:
+  globe_with_meridians![globe_with_meridians](https://assets-cdn.github.com/images/icons/emoji/globe_with_meridians.png)
 
-  goat:goat:
+  goat![goat](https://assets-cdn.github.com/images/icons/emoji/goat.png)
 
-  goberserk:goberserk:
+  goberserk![goberserk](https://assets-cdn.github.com/images/icons/emoji/goberserk.png)
 
-  godmode:godmode:
+  godmode![godmode](https://assets-cdn.github.com/images/icons/emoji/godmode.png)
 
-  golf:golf:
+  golf![golf](https://assets-cdn.github.com/images/icons/emoji/golf.png)
 
-  grapes:grapes:
+  grapes![grapes](https://assets-cdn.github.com/images/icons/emoji/grapes.png)
 
-  green_apple:green_apple:
+  green_apple![green_apple](https://assets-cdn.github.com/images/icons/emoji/green_apple.png)
 
-  green_book:green_book:
+  green_book![green_book](https://assets-cdn.github.com/images/icons/emoji/green_book.png)
 
-  green_heart:green_heart:
+  green_heart![green_heart](https://assets-cdn.github.com/images/icons/emoji/green_heart.png)
 
-  grey_exclamation:grey_exclamation:
+  grey_exclamation![grey_exclamation](https://assets-cdn.github.com/images/icons/emoji/grey_exclamation.png)
 
-  grey_question:grey_question:
+  grey_question![grey_question](https://assets-cdn.github.com/images/icons/emoji/grey_question.png)
 
-  grimacing:grimacing:
+  grimacing![grimacing](https://assets-cdn.github.com/images/icons/emoji/grimacing.png)
 
-  grin:grin:
+  grin![grin](https://assets-cdn.github.com/images/icons/emoji/grin.png)
 
-  grinning:grinning:
+  grinning![grinning](https://assets-cdn.github.com/images/icons/emoji/grinning.png)
 
-  guardsman:guardsman:
+  guardsman![guardsman](https://assets-cdn.github.com/images/icons/emoji/guardsman.png)
 
-  guitar:guitar:
+  guitar![guitar](https://assets-cdn.github.com/images/icons/emoji/guitar.png)
 
-  gun:gun:
+  gun![gun](https://assets-cdn.github.com/images/icons/emoji/gun.png)
 
-  haircut:haircut:
+  haircut![haircut](https://assets-cdn.github.com/images/icons/emoji/haircut.png)
 
-  hamburger:hamburger:
+  hamburger![hamburger](https://assets-cdn.github.com/images/icons/emoji/hamburger.png)
 
-  hammer:hammer:
+  hammer![hammer](https://assets-cdn.github.com/images/icons/emoji/hammer.png)
 
-  hamster:hamster:
+  hamster![hamster](https://assets-cdn.github.com/images/icons/emoji/hamster.png)
 
-  hand:hand:
+  hand![hand](https://assets-cdn.github.com/images/icons/emoji/hand.png)
 
-  handbag:handbag:
+  handbag![handbag](https://assets-cdn.github.com/images/icons/emoji/handbag.png)
 
-  hankey:hankey:
+  hankey![hankey](https://assets-cdn.github.com/images/icons/emoji/hankey.png)
 
-  hash:hash:
+  hash![hash](https://assets-cdn.github.com/images/icons/emoji/hash.png)
 
-  hatched_chick:hatched_chick:
+  hatched_chick![hatched_chick](https://assets-cdn.github.com/images/icons/emoji/hatched_chick.png)
 
-  hatching_chick:hatching_chick:
+  hatching_chick![hatching_chick](https://assets-cdn.github.com/images/icons/emoji/hatching_chick.png)
 
-  headphones:headphones:
+  headphones![headphones](https://assets-cdn.github.com/images/icons/emoji/headphones.png)
 
-  hear_no_evil:hear_no_evil:
+  hear_no_evil![hear_no_evil](https://assets-cdn.github.com/images/icons/emoji/hear_no_evil.png)
 
-  heart:heart:
+  heart![heart](https://assets-cdn.github.com/images/icons/emoji/heart.png)
 
-  heart_decoration:heart_decoration:
+  heart_decoration![heart_decoration](https://assets-cdn.github.com/images/icons/emoji/heart_decoration.png)
 
-  heart_eyes:heart_eyes:
+  heart_eyes![heart_eyes](https://assets-cdn.github.com/images/icons/emoji/heart_eyes.png)
 
-  heart_eyes_cat:heart_eyes_cat:
+  heart_eyes_cat![heart_eyes_cat](https://assets-cdn.github.com/images/icons/emoji/heart_eyes_cat.png)
 
-  heartbeat:heartbeat:
+  heartbeat![heartbeat](https://assets-cdn.github.com/images/icons/emoji/heartbeat.png)
 
-  heartpulse:heartpulse:
+  heartpulse![heartpulse](https://assets-cdn.github.com/images/icons/emoji/heartpulse.png)
 
-  hearts:hearts:
+  hearts![hearts](https://assets-cdn.github.com/images/icons/emoji/hearts.png)
 
-  heavy_check_mark:heavy_check_mark:
+  heavy_check_mark![heavy_check_mark](https://assets-cdn.github.com/images/icons/emoji/heavy_check_mark.png)
 
-  heavy_division_sign:heavy_division_sign:
+  heavy_division_sign![heavy_division_sign](https://assets-cdn.github.com/images/icons/emoji/heavy_division_sign.png)
 
-  heavy_dollar_sign:heavy_dollar_sign:
+  heavy_dollar_sign![heavy_dollar_sign](https://assets-cdn.github.com/images/icons/emoji/heavy_dollar_sign.png)
 
-  heavy_exclamation_mark:heavy_exclamation_mark:
+  heavy_exclamation_mark![heavy_exclamation_mark](https://assets-cdn.github.com/images/icons/emoji/heavy_exclamation_mark.png)
 
-  heavy_minus_sign:heavy_minus_sign:
+  heavy_minus_sign![heavy_minus_sign](https://assets-cdn.github.com/images/icons/emoji/heavy_minus_sign.png)
 
-  heavy_multiplication_x:heavy_multiplication_x:
+  heavy_multiplication_x![heavy_multiplication_x](https://assets-cdn.github.com/images/icons/emoji/heavy_multiplication_x.png)
 
-  heavy_plus_sign:heavy_plus_sign:
+  heavy_plus_sign![heavy_plus_sign](https://assets-cdn.github.com/images/icons/emoji/heavy_plus_sign.png)
 
-  helicopter:helicopter:
+  helicopter![helicopter](https://assets-cdn.github.com/images/icons/emoji/helicopter.png)
 
-  herb:herb:
+  herb![herb](https://assets-cdn.github.com/images/icons/emoji/herb.png)
 
-  hibiscus:hibiscus:
+  hibiscus![hibiscus](https://assets-cdn.github.com/images/icons/emoji/hibiscus.png)
 
-  high_brightness:high_brightness:
+  high_brightness![high_brightness](https://assets-cdn.github.com/images/icons/emoji/high_brightness.png)
 
-  high_heel:high_heel:
+  high_heel![high_heel](https://assets-cdn.github.com/images/icons/emoji/high_heel.png)
 
-  hocho:hocho:
+  hocho![hocho](https://assets-cdn.github.com/images/icons/emoji/hocho.png)
 
-  honey_pot:honey_pot:
+  honey_pot![honey_pot](https://assets-cdn.github.com/images/icons/emoji/honey_pot.png)
 
-  honeybee:honeybee:
+  honeybee![honeybee](https://assets-cdn.github.com/images/icons/emoji/honeybee.png)
 
-  horse:horse:
+  horse![horse](https://assets-cdn.github.com/images/icons/emoji/horse.png)
 
-  horse_racing:horse_racing:
+  horse_racing![horse_racing](https://assets-cdn.github.com/images/icons/emoji/horse_racing.png)
 
-  hospital:hospital:
+  hospital![hospital](https://assets-cdn.github.com/images/icons/emoji/hospital.png)
 
-  hotel:hotel:
+  hotel![hotel](https://assets-cdn.github.com/images/icons/emoji/hotel.png)
 
-  hotsprings:hotsprings:
+  hotsprings![hotsprings](https://assets-cdn.github.com/images/icons/emoji/hotsprings.png)
 
-  hourglass:hourglass:
+  hourglass![hourglass](https://assets-cdn.github.com/images/icons/emoji/hourglass.png)
 
-  hourglass_flowing_sand:hourglass_flowing_sand:
+  hourglass_flowing_sand![hourglass_flowing_sand](https://assets-cdn.github.com/images/icons/emoji/hourglass_flowing_sand.png)
 
-  house:house:
+  house![house](https://assets-cdn.github.com/images/icons/emoji/house.png)
 
-  house_with_garden:house_with_garden:
+  house_with_garden![house_with_garden](https://assets-cdn.github.com/images/icons/emoji/house_with_garden.png)
 
-  hurtrealbad:hurtrealbad:
+  hurtrealbad![hurtrealbad](https://assets-cdn.github.com/images/icons/emoji/hurtrealbad.png)
 
-  hushed:hushed:
+  hushed![hushed](https://assets-cdn.github.com/images/icons/emoji/hushed.png)
 
-  ice_cream:ice_cream:
+  ice_cream![ice_cream](https://assets-cdn.github.com/images/icons/emoji/ice_cream.png)
 
-  icecream:icecream:
+  icecream![icecream](https://assets-cdn.github.com/images/icons/emoji/icecream.png)
 
-  id:id:
+  id![id](https://assets-cdn.github.com/images/icons/emoji/id.png)
 
-  ideograph_advantage:ideograph_advantage:
+  ideograph_advantage![ideograph_advantage](https://assets-cdn.github.com/images/icons/emoji/ideograph_advantage.png)
 
-  imp:imp:
+  imp![imp](https://assets-cdn.github.com/images/icons/emoji/imp.png)
 
-  inbox_tray:inbox_tray:
+  inbox_tray![inbox_tray](https://assets-cdn.github.com/images/icons/emoji/inbox_tray.png)
 
-  incoming_envelope:incoming_envelope:
+  incoming_envelope![incoming_envelope](https://assets-cdn.github.com/images/icons/emoji/incoming_envelope.png)
 
-  information_desk_person:information_desk_person:
+  information_desk_person![information_desk_person](https://assets-cdn.github.com/images/icons/emoji/information_desk_person.png)
 
-  information_source:information_source:
+  information_source![information_source](https://assets-cdn.github.com/images/icons/emoji/information_source.png)
 
-  innocent:innocent:
+  innocent![innocent](https://assets-cdn.github.com/images/icons/emoji/innocent.png)
 
-  interrobang:interrobang:
+  interrobang![interrobang](https://assets-cdn.github.com/images/icons/emoji/interrobang.png)
 
-  iphone:iphone:
+  iphone![iphone](https://assets-cdn.github.com/images/icons/emoji/iphone.png)
 
-  it:it:
+  it![it](https://assets-cdn.github.com/images/icons/emoji/it.png)
 
-  izakaya_lantern:izakaya_lantern:
+  izakaya_lantern![izakaya_lantern](https://assets-cdn.github.com/images/icons/emoji/izakaya_lantern.png)
 
-  jack_o_lantern:jack_o_lantern:
+  jack_o_lantern![jack_o_lantern](https://assets-cdn.github.com/images/icons/emoji/jack_o_lantern.png)
 
-  japan:japan:
+  japan![japan](https://assets-cdn.github.com/images/icons/emoji/japan.png)
 
-  japanese_castle:japanese_castle:
+  japanese_castle![japanese_castle](https://assets-cdn.github.com/images/icons/emoji/japanese_castle.png)
 
-  japanese_goblin:japanese_goblin:
+  japanese_goblin![japanese_goblin](https://assets-cdn.github.com/images/icons/emoji/japanese_goblin.png)
 
-  japanese_ogre:japanese_ogre:
+  japanese_ogre![japanese_ogre](https://assets-cdn.github.com/images/icons/emoji/japanese_ogre.png)
 
-  jeans:jeans:
+  jeans![jeans](https://assets-cdn.github.com/images/icons/emoji/jeans.png)
 
-  joy:joy:
+  joy![joy](https://assets-cdn.github.com/images/icons/emoji/joy.png)
 
-  joy_cat:joy_cat:
+  joy_cat![joy_cat](https://assets-cdn.github.com/images/icons/emoji/joy_cat.png)
 
-  jp:jp:
+  jp![jp](https://assets-cdn.github.com/images/icons/emoji/jp.png)
 
-  key:key:
+  key![key](https://assets-cdn.github.com/images/icons/emoji/key.png)
 
-  keycap_ten:keycap_ten:
+  keycap_ten![keycap_ten](https://assets-cdn.github.com/images/icons/emoji/keycap_ten.png)
 
-  kimono:kimono:
+  kimono![kimono](https://assets-cdn.github.com/images/icons/emoji/kimono.png)
 
-  kiss:kiss:
+  kiss![kiss](https://assets-cdn.github.com/images/icons/emoji/kiss.png)
 
-  kissing:kissing:
+  kissing![kissing](https://assets-cdn.github.com/images/icons/emoji/kissing.png)
 
-  kissing_cat:kissing_cat:
+  kissing_cat![kissing_cat](https://assets-cdn.github.com/images/icons/emoji/kissing_cat.png)
 
-  kissing_closed_eyes:kissing_closed_eyes:
+  kissing_closed_eyes![kissing_closed_eyes](https://assets-cdn.github.com/images/icons/emoji/kissing_closed_eyes.png)
 
-  kissing_heart:kissing_heart:
+  kissing_heart![kissing_heart](https://assets-cdn.github.com/images/icons/emoji/kissing_heart.png)
 
-  kissing_smiling_eyes:kissing_smiling_eyes:
+  kissing_smiling_eyes![kissing_smiling_eyes](https://assets-cdn.github.com/images/icons/emoji/kissing_smiling_eyes.png)
 
-  koala:koala:
+  koala![koala](https://assets-cdn.github.com/images/icons/emoji/koala.png)
 
-  koko:koko:
+  koko![koko](https://assets-cdn.github.com/images/icons/emoji/koko.png)
 
-  kr:kr:
+  kr![kr](https://assets-cdn.github.com/images/icons/emoji/kr.png)
 
-  lantern:lantern:
+  lantern![lantern](https://assets-cdn.github.com/images/icons/emoji/lantern.png)
 
-  large_blue_circle:large_blue_circle:
+  large_blue_circle![large_blue_circle](https://assets-cdn.github.com/images/icons/emoji/large_blue_circle.png)
 
-  large_blue_diamond:large_blue_diamond:
+  large_blue_diamond![large_blue_diamond](https://assets-cdn.github.com/images/icons/emoji/large_blue_diamond.png)
 
-  large_orange_diamond:large_orange_diamond:
+  large_orange_diamond![large_orange_diamond](https://assets-cdn.github.com/images/icons/emoji/large_orange_diamond.png)
 
-  last_quarter_moon:last_quarter_moon:
+  last_quarter_moon![last_quarter_moon](https://assets-cdn.github.com/images/icons/emoji/last_quarter_moon.png)
 
-  last_quarter_moon_with_face:last_quarter_moon_with_face:
+  last_quarter_moon_with_face![last_quarter_moon_with_face](https://assets-cdn.github.com/images/icons/emoji/last_quarter_moon_with_face.png)
 
-  laughing:laughing:
+  laughing![laughing](https://assets-cdn.github.com/images/icons/emoji/laughing.png)
 
-  leaves:leaves:
+  leaves![leaves](https://assets-cdn.github.com/images/icons/emoji/leaves.png)
 
-  ledger:ledger:
+  ledger![ledger](https://assets-cdn.github.com/images/icons/emoji/ledger.png)
 
-  left_luggage:left_luggage:
+  left_luggage![left_luggage](https://assets-cdn.github.com/images/icons/emoji/left_luggage.png)
 
-  left_right_arrow:left_right_arrow:
+  left_right_arrow![left_right_arrow](https://assets-cdn.github.com/images/icons/emoji/left_right_arrow.png)
 
-  leftwards_arrow_with_hook:leftwards_arrow_with_hook:
+  leftwards_arrow_with_hook![leftwards_arrow_with_hook](https://assets-cdn.github.com/images/icons/emoji/leftwards_arrow_with_hook.png)
 
-  lemon:lemon:
+  lemon![lemon](https://assets-cdn.github.com/images/icons/emoji/lemon.png)
 
-  leo:leo:
+  leo![leo](https://assets-cdn.github.com/images/icons/emoji/leo.png)
 
-  leopard:leopard:
+  leopard![leopard](https://assets-cdn.github.com/images/icons/emoji/leopard.png)
 
-  libra:libra:
+  libra![libra](https://assets-cdn.github.com/images/icons/emoji/libra.png)
 
-  light_rail:light_rail:
+  light_rail![light_rail](https://assets-cdn.github.com/images/icons/emoji/light_rail.png)
 
-  link:link:
+  link![link](https://assets-cdn.github.com/images/icons/emoji/link.png)
 
-  lips:lips:
+  lips![lips](https://assets-cdn.github.com/images/icons/emoji/lips.png)
 
-  lipstick:lipstick:
+  lipstick![lipstick](https://assets-cdn.github.com/images/icons/emoji/lipstick.png)
 
-  lock:lock:
+  lock![lock](https://assets-cdn.github.com/images/icons/emoji/lock.png)
 
-  lock_with_ink_pen:lock_with_ink_pen:
+  lock_with_ink_pen![lock_with_ink_pen](https://assets-cdn.github.com/images/icons/emoji/lock_with_ink_pen.png)
 
-  lollipop:lollipop:
+  lollipop![lollipop](https://assets-cdn.github.com/images/icons/emoji/lollipop.png)
 
-  loop:loop:
+  loop![loop](https://assets-cdn.github.com/images/icons/emoji/loop.png)
 
-  loud_sound:loud_sound:
+  loud_sound![loud_sound](https://assets-cdn.github.com/images/icons/emoji/loud_sound.png)
 
-  loudspeaker:loudspeaker:
+  loudspeaker![loudspeaker](https://assets-cdn.github.com/images/icons/emoji/loudspeaker.png)
 
-  love_hotel:love_hotel:
+  love_hotel![love_hotel](https://assets-cdn.github.com/images/icons/emoji/love_hotel.png)
 
-  love_letter:love_letter:
+  love_letter![love_letter](https://assets-cdn.github.com/images/icons/emoji/love_letter.png)
 
-  low_brightness:low_brightness:
+  low_brightness![low_brightness](https://assets-cdn.github.com/images/icons/emoji/low_brightness.png)
 
-  m:m:
+  m![m](https://assets-cdn.github.com/images/icons/emoji/m.png)
 
-  mag:mag:
+  mag![mag](https://assets-cdn.github.com/images/icons/emoji/mag.png)
 
-  mag_right:mag_right:
+  mag_right![mag_right](https://assets-cdn.github.com/images/icons/emoji/mag_right.png)
 
-  mahjong:mahjong:
+  mahjong![mahjong](https://assets-cdn.github.com/images/icons/emoji/mahjong.png)
 
-  mailbox:mailbox:
+  mailbox![mailbox](https://assets-cdn.github.com/images/icons/emoji/mailbox.png)
 
-  mailbox_closed:mailbox_closed:
+  mailbox_closed![mailbox_closed](https://assets-cdn.github.com/images/icons/emoji/mailbox_closed.png)
 
-  mailbox_with_mail:mailbox_with_mail:
+  mailbox_with_mail![mailbox_with_mail](https://assets-cdn.github.com/images/icons/emoji/mailbox_with_mail.png)
 
-  mailbox_with_no_mail:mailbox_with_no_mail:
+  mailbox_with_no_mail![mailbox_with_no_mail](https://assets-cdn.github.com/images/icons/emoji/mailbox_with_no_mail.png)
 
-  man:man:
+  man![man](https://assets-cdn.github.com/images/icons/emoji/man.png)
 
-  man_with_gua_pi_mao:man_with_gua_pi_mao:
+  man_with_gua_pi_mao![man_with_gua_pi_mao](https://assets-cdn.github.com/images/icons/emoji/man_with_gua_pi_mao.png)
 
-  man_with_turban:man_with_turban:
+  man_with_turban![man_with_turban](https://assets-cdn.github.com/images/icons/emoji/man_with_turban.png)
 
-  mans_shoe:mans_shoe:
+  mans_shoe![mans_shoe](https://assets-cdn.github.com/images/icons/emoji/mans_shoe.png)
 
-  maple_leaf:maple_leaf:
+  maple_leaf![maple_leaf](https://assets-cdn.github.com/images/icons/emoji/maple_leaf.png)
 
-  mask:mask:
+  mask![mask](https://assets-cdn.github.com/images/icons/emoji/mask.png)
 
-  massage:massage:
+  massage![massage](https://assets-cdn.github.com/images/icons/emoji/massage.png)
 
-  meat_on_bone:meat_on_bone:
+  meat_on_bone![meat_on_bone](https://assets-cdn.github.com/images/icons/emoji/meat_on_bone.png)
 
-  mega:mega:
+  mega![mega](https://assets-cdn.github.com/images/icons/emoji/mega.png)
 
-  melon:melon:
+  melon![melon](https://assets-cdn.github.com/images/icons/emoji/melon.png)
 
-  memo:memo:
+  memo![memo](https://assets-cdn.github.com/images/icons/emoji/memo.png)
 
-  mens:mens:
+  mens![mens](https://assets-cdn.github.com/images/icons/emoji/mens.png)
 
-  metal:metal:
+  metal![metal](https://assets-cdn.github.com/images/icons/emoji/metal.png)
 
-  metro:metro:
+  metro![metro](https://assets-cdn.github.com/images/icons/emoji/metro.png)
 
-  microphone:microphone:
+  microphone![microphone](https://assets-cdn.github.com/images/icons/emoji/microphone.png)
 
-  microscope:microscope:
+  microscope![microscope](https://assets-cdn.github.com/images/icons/emoji/microscope.png)
 
-  milky_way:milky_way:
+  milky_way![milky_way](https://assets-cdn.github.com/images/icons/emoji/milky_way.png)
 
-  minibus:minibus:
+  minibus![minibus](https://assets-cdn.github.com/images/icons/emoji/minibus.png)
 
-  minidisc:minidisc:
+  minidisc![minidisc](https://assets-cdn.github.com/images/icons/emoji/minidisc.png)
 
-  mobile_phone_off:mobile_phone_off:
+  mobile_phone_off![mobile_phone_off](https://assets-cdn.github.com/images/icons/emoji/mobile_phone_off.png)
 
-  money_with_wings:money_with_wings:
+  money_with_wings![money_with_wings](https://assets-cdn.github.com/images/icons/emoji/money_with_wings.png)
 
-  moneybag:moneybag:
+  moneybag![moneybag](https://assets-cdn.github.com/images/icons/emoji/moneybag.png)
 
-  monkey:monkey:
+  monkey![monkey](https://assets-cdn.github.com/images/icons/emoji/monkey.png)
 
-  monkey_face:monkey_face:
+  monkey_face![monkey_face](https://assets-cdn.github.com/images/icons/emoji/monkey_face.png)
 
-  monorail:monorail:
+  monorail![monorail](https://assets-cdn.github.com/images/icons/emoji/monorail.png)
 
-  moon:moon:
+  moon![moon](https://assets-cdn.github.com/images/icons/emoji/moon.png)
 
-  mortar_board:mortar_board:
+  mortar_board![mortar_board](https://assets-cdn.github.com/images/icons/emoji/mortar_board.png)
 
-  mount_fuji:mount_fuji:
+  mount_fuji![mount_fuji](https://assets-cdn.github.com/images/icons/emoji/mount_fuji.png)
 
-  mountain_bicyclist:mountain_bicyclist:
+  mountain_bicyclist![mountain_bicyclist](https://assets-cdn.github.com/images/icons/emoji/mountain_bicyclist.png)
 
-  mountain_cableway:mountain_cableway:
+  mountain_cableway![mountain_cableway](https://assets-cdn.github.com/images/icons/emoji/mountain_cableway.png)
 
-  mountain_railway:mountain_railway:
+  mountain_railway![mountain_railway](https://assets-cdn.github.com/images/icons/emoji/mountain_railway.png)
 
-  mouse:mouse:
+  mouse![mouse](https://assets-cdn.github.com/images/icons/emoji/mouse.png)
 
-  mouse2:mouse2:
+  mouse2![mouse2](https://assets-cdn.github.com/images/icons/emoji/mouse2.png)
 
-  movie_camera:movie_camera:
+  movie_camera![movie_camera](https://assets-cdn.github.com/images/icons/emoji/movie_camera.png)
 
-  moyai:moyai:
+  moyai![moyai](https://assets-cdn.github.com/images/icons/emoji/moyai.png)
 
-  muscle:muscle:
+  muscle![muscle](https://assets-cdn.github.com/images/icons/emoji/muscle.png)
 
-  mushroom:mushroom:
+  mushroom![mushroom](https://assets-cdn.github.com/images/icons/emoji/mushroom.png)
 
-  musical_keyboard:musical_keyboard:
+  musical_keyboard![musical_keyboard](https://assets-cdn.github.com/images/icons/emoji/musical_keyboard.png)
 
-  musical_note:musical_note:
+  musical_note![musical_note](https://assets-cdn.github.com/images/icons/emoji/musical_note.png)
 
-  musical_score:musical_score:
+  musical_score![musical_score](https://assets-cdn.github.com/images/icons/emoji/musical_score.png)
 
-  mute:mute:
+  mute![mute](https://assets-cdn.github.com/images/icons/emoji/mute.png)
 
-  nail_care:nail_care:
+  nail_care![nail_care](https://assets-cdn.github.com/images/icons/emoji/nail_care.png)
 
-  name_badge:name_badge:
+  name_badge![name_badge](https://assets-cdn.github.com/images/icons/emoji/name_badge.png)
 
-  neckbeard:neckbeard:
+  neckbeard![neckbeard](https://assets-cdn.github.com/images/icons/emoji/neckbeard.png)
 
-  necktie:necktie:
+  necktie![necktie](https://assets-cdn.github.com/images/icons/emoji/necktie.png)
 
-  negative_squared_cross_mark:negative_squared_cross_mark:
+  negative_squared_cross_mark![negative_squared_cross_mark](https://assets-cdn.github.com/images/icons/emoji/negative_squared_cross_mark.png)
 
-  neutral_face:neutral_face:
+  neutral_face![neutral_face](https://assets-cdn.github.com/images/icons/emoji/neutral_face.png)
 
-  new:new:
+  new![new](https://assets-cdn.github.com/images/icons/emoji/new.png)
 
-  new_moon:new_moon:
+  new_moon![new_moon](https://assets-cdn.github.com/images/icons/emoji/new_moon.png)
 
-  new_moon_with_face:new_moon_with_face:
+  new_moon_with_face![new_moon_with_face](https://assets-cdn.github.com/images/icons/emoji/new_moon_with_face.png)
 
-  newspaper:newspaper:
+  newspaper![newspaper](https://assets-cdn.github.com/images/icons/emoji/newspaper.png)
 
-  ng:ng:
+  ng![ng](https://assets-cdn.github.com/images/icons/emoji/ng.png)
 
-  night_with_stars:night_with_stars:
+  night_with_stars![night_with_stars](https://assets-cdn.github.com/images/icons/emoji/night_with_stars.png)
 
-  nine:nine:
+  nine![nine](https://assets-cdn.github.com/images/icons/emoji/nine.png)
 
-  no_bell:no_bell:
+  no_bell![no_bell](https://assets-cdn.github.com/images/icons/emoji/no_bell.png)
 
-  no_bicycles:no_bicycles:
+  no_bicycles![no_bicycles](https://assets-cdn.github.com/images/icons/emoji/no_bicycles.png)
 
-  no_entry:no_entry:
+  no_entry![no_entry](https://assets-cdn.github.com/images/icons/emoji/no_entry.png)
 
-  no_entry_sign:no_entry_sign:
+  no_entry_sign![no_entry_sign](https://assets-cdn.github.com/images/icons/emoji/no_entry_sign.png)
 
-  no_good:no_good:
+  no_good![no_good](https://assets-cdn.github.com/images/icons/emoji/no_good.png)
 
-  no_mobile_phones:no_mobile_phones:
+  no_mobile_phones![no_mobile_phones](https://assets-cdn.github.com/images/icons/emoji/no_mobile_phones.png)
 
-  no_mouth:no_mouth:
+  no_mouth![no_mouth](https://assets-cdn.github.com/images/icons/emoji/no_mouth.png)
 
-  no_pedestrians:no_pedestrians:
+  no_pedestrians![no_pedestrians](https://assets-cdn.github.com/images/icons/emoji/no_pedestrians.png)
 
-  no_smoking:no_smoking:
+  no_smoking![no_smoking](https://assets-cdn.github.com/images/icons/emoji/no_smoking.png)
 
   'non-potable_water'
-  nose:nose:
+  nose![nose](https://assets-cdn.github.com/images/icons/emoji/nose.png)
 
-  notebook:notebook:
+  notebook![notebook](https://assets-cdn.github.com/images/icons/emoji/notebook.png)
 
-  notebook_with_decorative_cover:notebook_with_decorative_cover:
+  notebook_with_decorative_cover![notebook_with_decorative_cover](https://assets-cdn.github.com/images/icons/emoji/notebook_with_decorative_cover.png)
 
-  notes:notes:
+  notes![notes](https://assets-cdn.github.com/images/icons/emoji/notes.png)
 
-  nut_and_bolt:nut_and_bolt:
+  nut_and_bolt![nut_and_bolt](https://assets-cdn.github.com/images/icons/emoji/nut_and_bolt.png)
 
-  o:o:
+  o![o](https://assets-cdn.github.com/images/icons/emoji/o.png)
 
-  o2:o2:
+  o2![o2](https://assets-cdn.github.com/images/icons/emoji/o2.png)
 
-  ocean:ocean:
+  ocean![ocean](https://assets-cdn.github.com/images/icons/emoji/ocean.png)
 
-  octocat:octocat:
+  octocat![octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-  octopus:octopus:
+  octopus![octopus](https://assets-cdn.github.com/images/icons/emoji/octopus.png)
 
-  oden:oden:
+  oden![oden](https://assets-cdn.github.com/images/icons/emoji/oden.png)
 
-  office:office:
+  office![office](https://assets-cdn.github.com/images/icons/emoji/office.png)
 
-  ok:ok:
+  ok![ok](https://assets-cdn.github.com/images/icons/emoji/ok.png)
 
-  ok_hand:ok_hand:
+  ok_hand![ok_hand](https://assets-cdn.github.com/images/icons/emoji/ok_hand.png)
 
-  ok_woman:ok_woman:
+  ok_woman![ok_woman](https://assets-cdn.github.com/images/icons/emoji/ok_woman.png)
 
-  older_man:older_man:
+  older_man![older_man](https://assets-cdn.github.com/images/icons/emoji/older_man.png)
 
-  older_woman:older_woman:
+  older_woman![older_woman](https://assets-cdn.github.com/images/icons/emoji/older_woman.png)
 
-  on:on:
+  on![on](https://assets-cdn.github.com/images/icons/emoji/on.png)
 
-  oncoming_automobile:oncoming_automobile:
+  oncoming_automobile![oncoming_automobile](https://assets-cdn.github.com/images/icons/emoji/oncoming_automobile.png)
 
-  oncoming_bus:oncoming_bus:
+  oncoming_bus![oncoming_bus](https://assets-cdn.github.com/images/icons/emoji/oncoming_bus.png)
 
-  oncoming_police_car:oncoming_police_car:
+  oncoming_police_car![oncoming_police_car](https://assets-cdn.github.com/images/icons/emoji/oncoming_police_car.png)
 
-  oncoming_taxi:oncoming_taxi:
+  oncoming_taxi![oncoming_taxi](https://assets-cdn.github.com/images/icons/emoji/oncoming_taxi.png)
 
-  one:one:
+  one![one](https://assets-cdn.github.com/images/icons/emoji/one.png)
 
-  open_book:open_book:
+  open_book![open_book](https://assets-cdn.github.com/images/icons/emoji/open_book.png)
 
-  open_file_folder:open_file_folder:
+  open_file_folder![open_file_folder](https://assets-cdn.github.com/images/icons/emoji/open_file_folder.png)
 
-  open_hands:open_hands:
+  open_hands![open_hands](https://assets-cdn.github.com/images/icons/emoji/open_hands.png)
 
-  open_mouth:open_mouth:
+  open_mouth![open_mouth](https://assets-cdn.github.com/images/icons/emoji/open_mouth.png)
 
-  ophiuchus:ophiuchus:
+  ophiuchus![ophiuchus](https://assets-cdn.github.com/images/icons/emoji/ophiuchus.png)
 
-  orange_book:orange_book:
+  orange_book![orange_book](https://assets-cdn.github.com/images/icons/emoji/orange_book.png)
 
-  outbox_tray:outbox_tray:
+  outbox_tray![outbox_tray](https://assets-cdn.github.com/images/icons/emoji/outbox_tray.png)
 
-  ox:ox:
+  ox![ox](https://assets-cdn.github.com/images/icons/emoji/ox.png)
 
-  package:package:
+  package![package](https://assets-cdn.github.com/images/icons/emoji/package.png)
 
-  page_facing_up:page_facing_up:
+  page_facing_up![page_facing_up](https://assets-cdn.github.com/images/icons/emoji/page_facing_up.png)
 
-  page_with_curl:page_with_curl:
+  page_with_curl![page_with_curl](https://assets-cdn.github.com/images/icons/emoji/page_with_curl.png)
 
-  pager:pager:
+  pager![pager](https://assets-cdn.github.com/images/icons/emoji/pager.png)
 
-  palm_tree:palm_tree:
+  palm_tree![palm_tree](https://assets-cdn.github.com/images/icons/emoji/palm_tree.png)
 
-  panda_face:panda_face:
+  panda_face![panda_face](https://assets-cdn.github.com/images/icons/emoji/panda_face.png)
 
-  paperclip:paperclip:
+  paperclip![paperclip](https://assets-cdn.github.com/images/icons/emoji/paperclip.png)
 
-  parking:parking:
+  parking![parking](https://assets-cdn.github.com/images/icons/emoji/parking.png)
 
-  part_alternation_mark:part_alternation_mark:
+  part_alternation_mark![part_alternation_mark](https://assets-cdn.github.com/images/icons/emoji/part_alternation_mark.png)
 
-  partly_sunny:partly_sunny:
+  partly_sunny![partly_sunny](https://assets-cdn.github.com/images/icons/emoji/partly_sunny.png)
 
-  passport_control:passport_control:
+  passport_control![passport_control](https://assets-cdn.github.com/images/icons/emoji/passport_control.png)
 
-  paw_prints:paw_prints:
+  paw_prints![paw_prints](https://assets-cdn.github.com/images/icons/emoji/paw_prints.png)
 
-  peach:peach:
+  peach![peach](https://assets-cdn.github.com/images/icons/emoji/peach.png)
 
-  pear:pear:
+  pear![pear](https://assets-cdn.github.com/images/icons/emoji/pear.png)
 
-  pencil:pencil:
+  pencil![pencil](https://assets-cdn.github.com/images/icons/emoji/pencil.png)
 
-  pencil2:pencil2:
+  pencil2![pencil2](https://assets-cdn.github.com/images/icons/emoji/pencil2.png)
 
-  penguin:penguin:
+  penguin![penguin](https://assets-cdn.github.com/images/icons/emoji/penguin.png)
 
-  pensive:pensive:
+  pensive![pensive](https://assets-cdn.github.com/images/icons/emoji/pensive.png)
 
-  performing_arts:performing_arts:
+  performing_arts![performing_arts](https://assets-cdn.github.com/images/icons/emoji/performing_arts.png)
 
-  persevere:persevere:
+  persevere![persevere](https://assets-cdn.github.com/images/icons/emoji/persevere.png)
 
-  person_frowning:person_frowning:
+  person_frowning![person_frowning](https://assets-cdn.github.com/images/icons/emoji/person_frowning.png)
 
-  person_with_blond_hair:person_with_blond_hair:
+  person_with_blond_hair![person_with_blond_hair](https://assets-cdn.github.com/images/icons/emoji/person_with_blond_hair.png)
 
-  person_with_pouting_face:person_with_pouting_face:
+  person_with_pouting_face![person_with_pouting_face](https://assets-cdn.github.com/images/icons/emoji/person_with_pouting_face.png)
 
-  phone:phone:
+  phone![phone](https://assets-cdn.github.com/images/icons/emoji/phone.png)
 
-  pig:pig:
+  pig![pig](https://assets-cdn.github.com/images/icons/emoji/pig.png)
 
-  pig2:pig2:
+  pig2![pig2](https://assets-cdn.github.com/images/icons/emoji/pig2.png)
 
-  pig_nose:pig_nose:
+  pig_nose![pig_nose](https://assets-cdn.github.com/images/icons/emoji/pig_nose.png)
 
-  pill:pill:
+  pill![pill](https://assets-cdn.github.com/images/icons/emoji/pill.png)
 
-  pineapple:pineapple:
+  pineapple![pineapple](https://assets-cdn.github.com/images/icons/emoji/pineapple.png)
 
-  pisces:pisces:
+  pisces![pisces](https://assets-cdn.github.com/images/icons/emoji/pisces.png)
 
-  pizza:pizza:
+  pizza![pizza](https://assets-cdn.github.com/images/icons/emoji/pizza.png)
 
-  point_down:point_down:
+  point_down![point_down](https://assets-cdn.github.com/images/icons/emoji/point_down.png)
 
-  point_left:point_left:
+  point_left![point_left](https://assets-cdn.github.com/images/icons/emoji/point_left.png)
 
-  point_right:point_right:
+  point_right![point_right](https://assets-cdn.github.com/images/icons/emoji/point_right.png)
 
-  point_up:point_up:
+  point_up![point_up](https://assets-cdn.github.com/images/icons/emoji/point_up.png)
 
-  point_up_2:point_up_2:
+  point_up_2![point_up_2](https://assets-cdn.github.com/images/icons/emoji/point_up_2.png)
 
-  police_car:police_car:
+  police_car![police_car](https://assets-cdn.github.com/images/icons/emoji/police_car.png)
 
-  poodle:poodle:
+  poodle![poodle](https://assets-cdn.github.com/images/icons/emoji/poodle.png)
 
-  poop:poop:
+  poop![poop](https://assets-cdn.github.com/images/icons/emoji/poop.png)
 
-  post_office:post_office:
+  post_office![post_office](https://assets-cdn.github.com/images/icons/emoji/post_office.png)
 
-  postal_horn:postal_horn:
+  postal_horn![postal_horn](https://assets-cdn.github.com/images/icons/emoji/postal_horn.png)
 
-  postbox:postbox:
+  postbox![postbox](https://assets-cdn.github.com/images/icons/emoji/postbox.png)
 
-  potable_water:potable_water:
+  potable_water![potable_water](https://assets-cdn.github.com/images/icons/emoji/potable_water.png)
 
-  pouch:pouch:
+  pouch![pouch](https://assets-cdn.github.com/images/icons/emoji/pouch.png)
 
-  poultry_leg:poultry_leg:
+  poultry_leg![poultry_leg](https://assets-cdn.github.com/images/icons/emoji/poultry_leg.png)
 
-  pound:pound:
+  pound![pound](https://assets-cdn.github.com/images/icons/emoji/pound.png)
 
-  pouting_cat:pouting_cat:
+  pouting_cat![pouting_cat](https://assets-cdn.github.com/images/icons/emoji/pouting_cat.png)
 
-  pray:pray:
+  pray![pray](https://assets-cdn.github.com/images/icons/emoji/pray.png)
 
-  princess:princess:
+  princess![princess](https://assets-cdn.github.com/images/icons/emoji/princess.png)
 
-  punch:punch:
+  punch![punch](https://assets-cdn.github.com/images/icons/emoji/punch.png)
 
-  purple_heart:purple_heart:
+  purple_heart![purple_heart](https://assets-cdn.github.com/images/icons/emoji/purple_heart.png)
 
-  purse:purse:
+  purse![purse](https://assets-cdn.github.com/images/icons/emoji/purse.png)
 
-  pushpin:pushpin:
+  pushpin![pushpin](https://assets-cdn.github.com/images/icons/emoji/pushpin.png)
 
-  put_litter_in_its_place:put_litter_in_its_place:
+  put_litter_in_its_place![put_litter_in_its_place](https://assets-cdn.github.com/images/icons/emoji/put_litter_in_its_place.png)
 
-  question:question:
+  question![question](https://assets-cdn.github.com/images/icons/emoji/question.png)
 
-  rabbit:rabbit:
+  rabbit![rabbit](https://assets-cdn.github.com/images/icons/emoji/rabbit.png)
 
-  rabbit2:rabbit2:
+  rabbit2![rabbit2](https://assets-cdn.github.com/images/icons/emoji/rabbit2.png)
 
-  racehorse:racehorse:
+  racehorse![racehorse](https://assets-cdn.github.com/images/icons/emoji/racehorse.png)
 
-  radio:radio:
+  radio![radio](https://assets-cdn.github.com/images/icons/emoji/radio.png)
 
-  radio_button:radio_button:
+  radio_button![radio_button](https://assets-cdn.github.com/images/icons/emoji/radio_button.png)
 
-  rage:rage:
+  rage![rage](https://assets-cdn.github.com/images/icons/emoji/rage.png)
 
-  rage1:rage1:
+  rage1![rage1](https://assets-cdn.github.com/images/icons/emoji/rage1.png)
 
-  rage2:rage2:
+  rage2![rage2](https://assets-cdn.github.com/images/icons/emoji/rage2.png)
 
-  rage3:rage3:
+  rage3![rage3](https://assets-cdn.github.com/images/icons/emoji/rage3.png)
 
-  rage4:rage4:
+  rage4![rage4](https://assets-cdn.github.com/images/icons/emoji/rage4.png)
 
-  railway_car:railway_car:
+  railway_car![railway_car](https://assets-cdn.github.com/images/icons/emoji/railway_car.png)
 
-  rainbow:rainbow:
+  rainbow![rainbow](https://assets-cdn.github.com/images/icons/emoji/rainbow.png)
 
-  raised_hand:raised_hand:
+  raised_hand![raised_hand](https://assets-cdn.github.com/images/icons/emoji/raised_hand.png)
 
-  raised_hands:raised_hands:
+  raised_hands![raised_hands](https://assets-cdn.github.com/images/icons/emoji/raised_hands.png)
 
-  raising_hand:raising_hand:
+  raising_hand![raising_hand](https://assets-cdn.github.com/images/icons/emoji/raising_hand.png)
 
-  ram:ram:
+  ram![ram](https://assets-cdn.github.com/images/icons/emoji/ram.png)
 
-  ramen:ramen:
+  ramen![ramen](https://assets-cdn.github.com/images/icons/emoji/ramen.png)
 
-  rat:rat:
+  rat![rat](https://assets-cdn.github.com/images/icons/emoji/rat.png)
 
-  recycle:recycle:
+  recycle![recycle](https://assets-cdn.github.com/images/icons/emoji/recycle.png)
 
-  red_car:red_car:
+  red_car![red_car](https://assets-cdn.github.com/images/icons/emoji/red_car.png)
 
-  red_circle:red_circle:
+  red_circle![red_circle](https://assets-cdn.github.com/images/icons/emoji/red_circle.png)
 
-  registered:registered:
+  registered![registered](https://assets-cdn.github.com/images/icons/emoji/registered.png)
 
-  relaxed:relaxed:
+  relaxed![relaxed](https://assets-cdn.github.com/images/icons/emoji/relaxed.png)
 
-  relieved:relieved:
+  relieved![relieved](https://assets-cdn.github.com/images/icons/emoji/relieved.png)
 
-  repeat:repeat:
+  repeat![repeat](https://assets-cdn.github.com/images/icons/emoji/repeat.png)
 
-  repeat_one:repeat_one:
+  repeat_one![repeat_one](https://assets-cdn.github.com/images/icons/emoji/repeat_one.png)
 
-  restroom:restroom:
+  restroom![restroom](https://assets-cdn.github.com/images/icons/emoji/restroom.png)
 
-  revolving_hearts:revolving_hearts:
+  revolving_hearts![revolving_hearts](https://assets-cdn.github.com/images/icons/emoji/revolving_hearts.png)
 
-  rewind:rewind:
+  rewind![rewind](https://assets-cdn.github.com/images/icons/emoji/rewind.png)
 
-  ribbon:ribbon:
+  ribbon![ribbon](https://assets-cdn.github.com/images/icons/emoji/ribbon.png)
 
-  rice:rice:
+  rice![rice](https://assets-cdn.github.com/images/icons/emoji/rice.png)
 
-  rice_ball:rice_ball:
+  rice_ball![rice_ball](https://assets-cdn.github.com/images/icons/emoji/rice_ball.png)
 
-  rice_cracker:rice_cracker:
+  rice_cracker![rice_cracker](https://assets-cdn.github.com/images/icons/emoji/rice_cracker.png)
 
-  rice_scene:rice_scene:
+  rice_scene![rice_scene](https://assets-cdn.github.com/images/icons/emoji/rice_scene.png)
 
-  ring:ring:
+  ring![ring](https://assets-cdn.github.com/images/icons/emoji/ring.png)
 
-  rocket:rocket:
+  rocket![rocket](https://assets-cdn.github.com/images/icons/emoji/rocket.png)
 
-  roller_coaster:roller_coaster:
+  roller_coaster![roller_coaster](https://assets-cdn.github.com/images/icons/emoji/roller_coaster.png)
 
-  rooster:rooster:
+  rooster![rooster](https://assets-cdn.github.com/images/icons/emoji/rooster.png)
 
-  rose:rose:
+  rose![rose](https://assets-cdn.github.com/images/icons/emoji/rose.png)
 
-  rotating_light:rotating_light:
+  rotating_light![rotating_light](https://assets-cdn.github.com/images/icons/emoji/rotating_light.png)
 
-  round_pushpin:round_pushpin:
+  round_pushpin![round_pushpin](https://assets-cdn.github.com/images/icons/emoji/round_pushpin.png)
 
-  rowboat:rowboat:
+  rowboat![rowboat](https://assets-cdn.github.com/images/icons/emoji/rowboat.png)
 
-  ru:ru:
+  ru![ru](https://assets-cdn.github.com/images/icons/emoji/ru.png)
 
-  rugby_football:rugby_football:
+  rugby_football![rugby_football](https://assets-cdn.github.com/images/icons/emoji/rugby_football.png)
 
-  runner:runner:
+  runner![runner](https://assets-cdn.github.com/images/icons/emoji/runner.png)
 
-  running:running:
+  running![running](https://assets-cdn.github.com/images/icons/emoji/running.png)
 
-  running_shirt_with_sash:running_shirt_with_sash:
+  running_shirt_with_sash![running_shirt_with_sash](https://assets-cdn.github.com/images/icons/emoji/running_shirt_with_sash.png)
 
-  sa:sa:
+  sa![sa](https://assets-cdn.github.com/images/icons/emoji/sa.png)
 
-  sagittarius:sagittarius:
+  sagittarius![sagittarius](https://assets-cdn.github.com/images/icons/emoji/sagittarius.png)
 
-  sailboat:sailboat:
+  sailboat![sailboat](https://assets-cdn.github.com/images/icons/emoji/sailboat.png)
 
-  sake:sake:
+  sake![sake](https://assets-cdn.github.com/images/icons/emoji/sake.png)
 
-  sandal:sandal:
+  sandal![sandal](https://assets-cdn.github.com/images/icons/emoji/sandal.png)
 
-  santa:santa:
+  santa![santa](https://assets-cdn.github.com/images/icons/emoji/santa.png)
 
-  satellite:satellite:
+  satellite![satellite](https://assets-cdn.github.com/images/icons/emoji/satellite.png)
 
-  satisfied:satisfied:
+  satisfied![satisfied](https://assets-cdn.github.com/images/icons/emoji/satisfied.png)
 
-  saxophone:saxophone:
+  saxophone![saxophone](https://assets-cdn.github.com/images/icons/emoji/saxophone.png)
 
-  school:school:
+  school![school](https://assets-cdn.github.com/images/icons/emoji/school.png)
 
-  school_satchel:school_satchel:
+  school_satchel![school_satchel](https://assets-cdn.github.com/images/icons/emoji/school_satchel.png)
 
-  scissors:scissors:
+  scissors![scissors](https://assets-cdn.github.com/images/icons/emoji/scissors.png)
 
-  scorpius:scorpius:
+  scorpius![scorpius](https://assets-cdn.github.com/images/icons/emoji/scorpius.png)
 
-  scream:scream:
+  scream![scream](https://assets-cdn.github.com/images/icons/emoji/scream.png)
 
-  scream_cat:scream_cat:
+  scream_cat![scream_cat](https://assets-cdn.github.com/images/icons/emoji/scream_cat.png)
 
-  scroll:scroll:
+  scroll![scroll](https://assets-cdn.github.com/images/icons/emoji/scroll.png)
 
-  seat:seat:
+  seat![seat](https://assets-cdn.github.com/images/icons/emoji/seat.png)
 
-  secret:secret:
+  secret![secret](https://assets-cdn.github.com/images/icons/emoji/secret.png)
 
-  see_no_evil:see_no_evil:
+  see_no_evil![see_no_evil](https://assets-cdn.github.com/images/icons/emoji/see_no_evil.png)
 
-  seedling:seedling:
+  seedling![seedling](https://assets-cdn.github.com/images/icons/emoji/seedling.png)
 
-  seven:seven:
+  seven![seven](https://assets-cdn.github.com/images/icons/emoji/seven.png)
 
-  shaved_ice:shaved_ice:
+  shaved_ice![shaved_ice](https://assets-cdn.github.com/images/icons/emoji/shaved_ice.png)
 
-  sheep:sheep:
+  sheep![sheep](https://assets-cdn.github.com/images/icons/emoji/sheep.png)
 
-  shell:shell:
+  shell![shell](https://assets-cdn.github.com/images/icons/emoji/shell.png)
 
-  ship:ship:
+  ship![ship](https://assets-cdn.github.com/images/icons/emoji/ship.png)
 
-  shipit:shipit:
+  shipit![shipit](https://assets-cdn.github.com/images/icons/emoji/shipit.png)
 
-  shirt:shirt:
+  shirt![shirt](https://assets-cdn.github.com/images/icons/emoji/shirt.png)
 
-  shit:shit:
+  shit![shit](https://assets-cdn.github.com/images/icons/emoji/shit.png)
 
-  shoe:shoe:
+  shoe![shoe](https://assets-cdn.github.com/images/icons/emoji/shoe.png)
 
-  shower:shower:
+  shower![shower](https://assets-cdn.github.com/images/icons/emoji/shower.png)
 
-  signal_strength:signal_strength:
+  signal_strength![signal_strength](https://assets-cdn.github.com/images/icons/emoji/signal_strength.png)
 
-  six:six:
+  six![six](https://assets-cdn.github.com/images/icons/emoji/six.png)
 
-  six_pointed_star:six_pointed_star:
+  six_pointed_star![six_pointed_star](https://assets-cdn.github.com/images/icons/emoji/six_pointed_star.png)
 
-  ski:ski:
+  ski![ski](https://assets-cdn.github.com/images/icons/emoji/ski.png)
 
-  skull:skull:
+  skull![skull](https://assets-cdn.github.com/images/icons/emoji/skull.png)
 
-  sleeping:sleeping:
+  sleeping![sleeping](https://assets-cdn.github.com/images/icons/emoji/sleeping.png)
 
-  sleepy:sleepy:
+  sleepy![sleepy](https://assets-cdn.github.com/images/icons/emoji/sleepy.png)
 
-  slot_machine:slot_machine:
+  slot_machine![slot_machine](https://assets-cdn.github.com/images/icons/emoji/slot_machine.png)
 
-  small_blue_diamond:small_blue_diamond:
+  small_blue_diamond![small_blue_diamond](https://assets-cdn.github.com/images/icons/emoji/small_blue_diamond.png)
 
-  small_orange_diamond:small_orange_diamond:
+  small_orange_diamond![small_orange_diamond](https://assets-cdn.github.com/images/icons/emoji/small_orange_diamond.png)
 
-  small_red_triangle:small_red_triangle:
+  small_red_triangle![small_red_triangle](https://assets-cdn.github.com/images/icons/emoji/small_red_triangle.png)
 
-  small_red_triangle_down:small_red_triangle_down:
+  small_red_triangle_down![small_red_triangle_down](https://assets-cdn.github.com/images/icons/emoji/small_red_triangle_down.png)
 
-  smile:smile:
+  smile![smile](https://assets-cdn.github.com/images/icons/emoji/smile.png)
 
-  smile_cat:smile_cat:
+  smile_cat![smile_cat](https://assets-cdn.github.com/images/icons/emoji/smile_cat.png)
 
-  smiley:smiley:
+  smiley![smiley](https://assets-cdn.github.com/images/icons/emoji/smiley.png)
 
-  smiley_cat:smiley_cat:
+  smiley_cat![smiley_cat](https://assets-cdn.github.com/images/icons/emoji/smiley_cat.png)
 
-  smiling_imp:smiling_imp:
+  smiling_imp![smiling_imp](https://assets-cdn.github.com/images/icons/emoji/smiling_imp.png)
 
-  smirk:smirk:
+  smirk![smirk](https://assets-cdn.github.com/images/icons/emoji/smirk.png)
 
-  smirk_cat:smirk_cat:
+  smirk_cat![smirk_cat](https://assets-cdn.github.com/images/icons/emoji/smirk_cat.png)
 
-  smoking:smoking:
+  smoking![smoking](https://assets-cdn.github.com/images/icons/emoji/smoking.png)
 
-  snail:snail:
+  snail![snail](https://assets-cdn.github.com/images/icons/emoji/snail.png)
 
-  snake:snake:
+  snake![snake](https://assets-cdn.github.com/images/icons/emoji/snake.png)
 
-  snowboarder:snowboarder:
+  snowboarder![snowboarder](https://assets-cdn.github.com/images/icons/emoji/snowboarder.png)
 
-  snowflake:snowflake:
+  snowflake![snowflake](https://assets-cdn.github.com/images/icons/emoji/snowflake.png)
 
-  snowman:snowman:
+  snowman![snowman](https://assets-cdn.github.com/images/icons/emoji/snowman.png)
 
-  sob:sob:
+  sob![sob](https://assets-cdn.github.com/images/icons/emoji/sob.png)
 
-  soccer:soccer:
+  soccer![soccer](https://assets-cdn.github.com/images/icons/emoji/soccer.png)
 
-  soon:soon:
+  soon![soon](https://assets-cdn.github.com/images/icons/emoji/soon.png)
 
-  sos:sos:
+  sos![sos](https://assets-cdn.github.com/images/icons/emoji/sos.png)
 
-  sound:sound:
+  sound![sound](https://assets-cdn.github.com/images/icons/emoji/sound.png)
 
-  space_invader:space_invader:
+  space_invader![space_invader](https://assets-cdn.github.com/images/icons/emoji/space_invader.png)
 
-  spades:spades:
+  spades![spades](https://assets-cdn.github.com/images/icons/emoji/spades.png)
 
-  spaghetti:spaghetti:
+  spaghetti![spaghetti](https://assets-cdn.github.com/images/icons/emoji/spaghetti.png)
 
-  sparkle:sparkle:
+  sparkle![sparkle](https://assets-cdn.github.com/images/icons/emoji/sparkle.png)
 
-  sparkler:sparkler:
+  sparkler![sparkler](https://assets-cdn.github.com/images/icons/emoji/sparkler.png)
 
-  sparkles:sparkles:
+  sparkles![sparkles](https://assets-cdn.github.com/images/icons/emoji/sparkles.png)
 
-  sparkling_heart:sparkling_heart:
+  sparkling_heart![sparkling_heart](https://assets-cdn.github.com/images/icons/emoji/sparkling_heart.png)
 
-  speak_no_evil:speak_no_evil:
+  speak_no_evil![speak_no_evil](https://assets-cdn.github.com/images/icons/emoji/speak_no_evil.png)
 
-  speaker:speaker:
+  speaker![speaker](https://assets-cdn.github.com/images/icons/emoji/speaker.png)
 
-  speech_balloon:speech_balloon:
+  speech_balloon![speech_balloon](https://assets-cdn.github.com/images/icons/emoji/speech_balloon.png)
 
-  speedboat:speedboat:
+  speedboat![speedboat](https://assets-cdn.github.com/images/icons/emoji/speedboat.png)
 
-  squirrel:squirrel:
+  squirrel![squirrel](https://assets-cdn.github.com/images/icons/emoji/squirrel.png)
 
-  star:star:
-
-  star2:star2:
-
-  stars:stars:
-
-  station:station:
-
-  statue_of_liberty:statue_of_liberty:
-
-  steam_locomotive:steam_locomotive:
-
-  stew:stew:
-
-  straight_ruler:straight_ruler:
-
-  strawberry:strawberry:
-
-  stuck_out_tongue:stuck_out_tongue:
-
-  stuck_out_tongue_closed_eyes:stuck_out_tongue_closed_eyes:
-
-  stuck_out_tongue_winking_eye:stuck_out_tongue_winking_eye:
-
-  sun_with_face:sun_with_face:
-
-  sunflower:sunflower:
-
-  sunglasses:sunglasses:
-
-  sunny:sunny:
-
-  sunrise:sunrise:
-
-  sunrise_over_mountains:sunrise_over_mountains:
-
-  surfer:surfer:
-
-  sushi:sushi:
-
-  suspect:suspect:
-
-  suspension_railway:suspension_railway:
-
-  sweat:sweat:
-
-  sweat_drops:sweat_drops:
-
-  sweat_smile:sweat_smile:
-
-  sweet_potato:sweet_potato:
-
-  swimmer:swimmer:
-
-  symbols:symbols:
-
-  syringe:syringe:
-
-  tada:tada:
-
-  tanabata_tree:tanabata_tree:
-
-  tangerine:tangerine:
-
-  taurus:taurus:
-
-  taxi:taxi:
-
-  tea:tea:
-
-  telephone:telephone:
-
-  telephone_receiver:telephone_receiver:
-
-  telescope:telescope:
-
-  tennis:tennis:
-
-  tent:tent:
-
-  thought_balloon:thought_balloon:
-
-  three:three:
-
-  thumbsdown:thumbsdown:
-
-  thumbsup:thumbsup:
-
-  ticket:ticket:
-
-  tiger:tiger:
-
-  tiger2:tiger2:
-
-  tired_face:tired_face:
-
-  tm:tm:
-
-  toilet:toilet:
-
-  tokyo_tower:tokyo_tower:
-
-  tomato:tomato:
-
-  tongue:tongue:
-
-  top:top:
-
-  tophat:tophat:
-
-  tractor:tractor:
-
-  traffic_light:traffic_light:
-
-  train:train:
-
-  train2:train2:
-
-  tram:tram:
-
-  triangular_flag_on_post:triangular_flag_on_post:
-
-  triangular_ruler:triangular_ruler:
-
-  trident:trident:
-
-  triumph:triumph:
-
-  trolleybus:trolleybus:
-
-  trollface:trollface:
-
-  trophy:trophy:
-
-  tropical_drink:tropical_drink:
-
-  tropical_fish:tropical_fish:
-
-  truck:truck:
-
-  trumpet:trumpet:
-
-  tshirt:tshirt:
-
-  tulip:tulip:
-
-  turtle:turtle:
-
-  tv:tv:
-
-  twisted_rightwards_arrows:twisted_rightwards_arrows:
-
-  two:two:
-
-  two_hearts:two_hearts:
-
-  two_men_holding_hands:two_men_holding_hands:
-
-  two_women_holding_hands:two_women_holding_hands:
-
-  u5272:u5272:
-
-  u5408:u5408:
-
-  u55b6:u55b6:
-
-  u6307:u6307:
-
-  u6708:u6708:
-
-  u6709:u6709:
-
-  u6e80:u6e80:
-
-  u7121:u7121:
-
-  u7533:u7533:
-
-  u7981:u7981:
-
-  u7a7a:u7a7a:
-
-  uk:uk:
-
-  umbrella:umbrella:
-
-  unamused:unamused:
-
-  underage:underage:
-
-  unlock:unlock:
-
-  up:up:
-
-  us:us:
-
-  v:v:
-
-  vertical_traffic_light:vertical_traffic_light:
-
-  vhs:vhs:
-
-  vibration_mode:vibration_mode:
-
-  video_camera:video_camera:
-
-  video_game:video_game:
-
-  violin:violin:
-
-  virgo:virgo:
-
-  volcano:volcano:
-
-  vs:vs:
-
-  walking:walking:
-
-  waning_crescent_moon:waning_crescent_moon:
-
-  waning_gibbous_moon:waning_gibbous_moon:
-
-  warning:warning:
-
-  watch:watch:
-
-  water_buffalo:water_buffalo:
-
-  watermelon:watermelon:
-
-  wave:wave:
-
-  wavy_dash:wavy_dash:
-
-  waxing_crescent_moon:waxing_crescent_moon:
-
-  waxing_gibbous_moon:waxing_gibbous_moon:
-
-  wc:wc:
-
-  weary:weary:
-
-  wedding:wedding:
-
-  whale:whale:
-
-  whale2:whale2:
-
-  wheelchair:wheelchair:
-
-  white_check_mark:white_check_mark:
-
-  white_circle:white_circle:
-
-  white_flower:white_flower:
-
-  white_large_square:white_large_square:
-
-  white_medium_small_square:white_medium_small_square:
-
-  white_medium_square:white_medium_square:
-
-  white_small_square:white_small_square:
-
-  white_square_button:white_square_button:
-
-  wind_chime:wind_chime:
-
-  wine_glass:wine_glass:
-
-  wink:wink:
-
-  wolf:wolf:
-
-  woman:woman:
-
-  womans_clothes:womans_clothes:
-
-  womans_hat:womans_hat:
-
-  womens:womens:
-
-  worried:worried:
-
-  wrench:wrench:
-
-  x:x:
-
-  yellow_heart:yellow_heart:
-
-  yen:yen:
-
-  yum:yum:
-
-  zap:zap:
-
-  zero:zero:
-
-  zzz:zzz:
-
-
-
-
+  star![star](https://assets-cdn.github.com/images/icons/emoji/
   
