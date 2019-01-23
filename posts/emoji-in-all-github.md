@@ -2,8 +2,7 @@
  
     | 代码       | 预览    |
     | --------   | -----  |
-    
-      | +1       | <img src="https://assets-cdn.github.com/images/icons/emoji/+1.png">   | 
+    | +1       | <img src="https://assets-cdn.github.com/images/icons/emoji/+1.png">   | 
       
       | 100        | <img src="https://assets-cdn.github.com/images/icons/emoji/100.png">   | 
 
