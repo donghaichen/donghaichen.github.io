@@ -1,4 +1,4 @@
-* [PHP 正则表达式匹配页面链接](/#/posts/php-bash-commands)
+* [PHP 正则表达式匹配页面链接](/#/posts/php-regular-expression)
 * [所有 emoji 和对应的图片，共 866 个](/#/posts/emoji-in-all-github)
 * [Centos 编译安装 php7.3.1](/#/posts/centos-compiled-installation-php7.3.1)
 * [( 转载 ) PHP 最佳实践](/#/posts/php-the-right-way)
