@@ -13,5 +13,7 @@ flush privileges;
 quit;
 ```
 
+```bash
 sudo /etc/init.d/mysql start
 mysql -u root -p123456
+```
