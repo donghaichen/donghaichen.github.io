@@ -1,3 +1,5 @@
+# Ubuntu 忘记 Mysql 密码
+
 ```bash
 sudo service mysql stop
 sudo /usr/bin/mysqld_safe --skip-grant-tables --skip-networking
