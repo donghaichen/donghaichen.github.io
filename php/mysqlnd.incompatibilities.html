@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=UTF-8>
+ <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+ <meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+ <meta http-equiv=x-dns-prefetch-control content=on>
+ <link rel=dns-prefetch href=//blog.mengniang.tv>
+  <title>Incompatibilities</title>
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-base.css" />
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-medium.css" />
+
+ </head>
+ <body class="docs"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <ul class="nav" style="width: 100%">
+      <li style="float: left;"><a href="mysqlnd.config.html">« 运行时配置</a></li>
+      <li style="float: right;"><a href="mysqlnd.persist.html">Persistent Connections »</a></li>
+    </ul>
+  </div>
+</div>
+<div id="breadcrumbs" class="clearfix">
+  <ul class="breadcrumbs-container">
+    <li><a href="index.html">PHP Manual</a></li>
+    <li><a href="book.mysqlnd.html">Mysqlnd</a></li>
+    <li>Incompatibilities</li>
+  </ul>
+</div>
+<div id="layout">
+  <div id="layout-content"><div id="mysqlnd.incompatibilities" class="chapter">
+ <h1>Incompatibilities</h1>
+
+ <p class="para">
+  MySQL Native Driver is in most cases compatible with MySQL Client Library
+  (<em>libmysql</em>). This section documents incompatibilities
+  between these libraries.
+ </p>
+ <ul class="itemizedlist">
+  <li class="listitem">
+   <p class="para">
+    Values of <em>bit</em> data type are returned as binary strings
+    (e.g. &quot;\0&quot; or &quot;\x1F&quot;) with <em>libmysql</em> and as decimal
+    strings (e.g. &quot;0&quot; or &quot;31&quot;) with <em>mysqlnd</em>. If you want the
+    code to be compatible with both libraries then always return bit fields as
+    numbers from MySQL with a query like this:
+    <em>SELECT bit + 0 FROM table</em>.
+   </p>
+  </li>
+ </ul>
+</div>
+</div></div></body></html>

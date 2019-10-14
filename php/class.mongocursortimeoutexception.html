@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=UTF-8>
+ <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+ <meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+ <meta http-equiv=x-dns-prefetch-control content=on>
+ <link rel=dns-prefetch href=//blog.mengniang.tv>
+  <title>The MongoCursorTimeoutException class</title>
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-base.css" />
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-medium.css" />
+
+ </head>
+ <body class="docs"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <ul class="nav" style="width: 100%">
+      <li style="float: left;"><a href="mongocursorexception.gethost.html">« MongoCursorException::getHost</a></li>
+      <li style="float: right;"><a href="class.mongoconnectionexception.html">MongoConnectionException »</a></li>
+    </ul>
+  </div>
+</div>
+<div id="breadcrumbs" class="clearfix">
+  <ul class="breadcrumbs-container">
+    <li><a href="index.html">PHP Manual</a></li>
+    <li><a href="mongo.exceptions.html">Exceptions</a></li>
+    <li>The MongoCursorTimeoutException class</li>
+  </ul>
+</div>
+<div id="layout">
+  <div id="layout-content"><div id="class.mongocursortimeoutexception" class="reference">
+
+ <h1 class="title">The MongoCursorTimeoutException class</h1>
+ 
+
+ <div class="partintro"><p class="verinfo">(PECL mongo &gt;= 1.0.0)</p>
+
+  
+  <div class="section" id="mongocursortimeoutexception.intro">
+   <h2 class="title">简介</h2>
+   <p class="para">
+    Caused by a query timing out.  You can set the length of time to wait before
+    this exception is thrown by calling 
+    <span class="function"><a href="mongocursor.timeout.html" class="function">MongoCursor::timeout()</a></span> on the cursor or setting
+    <em>MongoCursor::$timeout</em>.  The static variable is useful for
+    queries such as database commands and 
+    <span class="function"><a href="mongocollection.findone.html" class="function">MongoCollection::findOne()</a></span>, both of which implicitly use 
+    cursors.
+   </p>
+  </div>
+  
+
+  <div class="section" id="mongocursortimeoutexception.synopsis">
+   <h2 class="title">类摘要</h2>
+
+   
+   <div class="classsynopsis">
+    <div class="ooclass"></div>
+
+    
+    <div class="classsynopsisinfo">
+     <span class="ooclass">
+      <strong class="classname">MongoCursorTimeoutException</strong>
+     </span>
+     <span class="ooclass">
+      <span class="modifier">extends</span>
+      <a href="class.mongocursorexception.html" class="classname">MongoCursorException</a>
+     </span>
+     {</div>
+    
+    
+   }</div>
+   
+
+  </div>
+
+ </div>
+
+</div>
+</div></div></body></html>
