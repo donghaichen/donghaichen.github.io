@@ -1876,3 +1876,9 @@ aside.tips div.inner {
 #breadcrumbs {
     color: #ccc!important;
 }
+#intro .container, .navbar-inner, #breadcrumbs-inner, #goto div, #trick div, #layout, body > footer .footer-content {
+    width: 100%!important;
+}
+body {
+    margin:0!important;
+}
