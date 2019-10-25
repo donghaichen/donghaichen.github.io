@@ -1,5 +1,9 @@
 [
     {
+        "title":"( 转载 ) CentOS 7 yum 安装 PHP7.3",
+        "href":"centos7-install-php7.3"
+    },
+    {
         "title":"Ubuntu 忘记 Mysql 密码",
         "href":"ubuntu-mysql-password"
     },
@@ -20,15 +24,15 @@
         "href":"centos-compiled-installation-php7.3.1"
     },
     {
-        "title":"( 转载  PHP 最佳实践",
+        "title":"( 转载 )  PHP 最佳实践",
         "href":"php-the-right-way"
     },
     {
-        "title":"( 转载  Rails 信条",
+        "title":"( 转载 )  Rails 信条",
         "href":"the-rails-doctrine"
     },
     {
-        "title":"( 转载  中文文案排版指北",
+        "title":"( 转载 ) 中文文案排版指北",
         "href":"chinese-copywriting-guidelines"
     },
     {
@@ -36,8 +40,8 @@
         "href":"ubuntu-install-mysql"
     },
     {
-        "title":"( 转载  语义化版本 2.0.0",
-        "href":"Semantic-Versioning-2-0-0"
+        "title":"( 转载 )  语义化版本 2.0.0",
+        "href":"semantic-versioning-2-0-0"
     },
     {
         "title":"二进制和字符串相互转换方法",
@@ -53,7 +57,7 @@
     },
     {
         "title":"CentOS 安装最新版 nodejs",
-        "href":"CentOS-Lasted-nodejs"
+        "href":"centos-lasted-nodejs"
     },
     {
         "title":"Bing 每日图片和故事 API 接口",
