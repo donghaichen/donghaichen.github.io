@@ -1,5 +1,9 @@
 [
     {
+        "title":"( 转载 ) Vue 中的 render 函数学习",
+        "href":"vue-render"
+    },
+    {
         "title":"( 转载 ) CentOS 7 yum 安装 PHP7.3",
         "href":"centos7-install-php7.3"
     },
