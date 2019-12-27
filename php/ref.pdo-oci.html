@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=UTF-8>
+ <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+ <meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+ <meta http-equiv=x-dns-prefetch-control content=on>
+ <link rel=dns-prefetch href=//blog.mengniang.tv>
+  <title>Oracle Functions (PDO_OCI)</title>
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-base.css" />
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-medium.css" />
+
+ </head>
+ <body class="docs"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <ul class="nav" style="width: 100%">
+      <li style="float: left;"><a href="ref.pdo-sqlsrv.connection.html">« PDO_SQLSRV DSN</a></li>
+      <li style="float: right;"><a href="ref.pdo-oci.connection.html">PDO_OCI DSN »</a></li>
+    </ul>
+  </div>
+</div>
+<div id="breadcrumbs" class="clearfix">
+  <ul class="breadcrumbs-container">
+    <li><a href="index.html">PHP Manual</a></li>
+    <li><a href="pdo.drivers.html">PDO 驱动</a></li>
+    <li>Oracle Functions (PDO_OCI)</li>
+  </ul>
+</div>
+<div id="layout">
+  <div id="layout-content"><div id="ref.pdo-oci" class="reference">
+  
+  <h1 class="title">Oracle Functions (PDO_OCI)</h1>
+  
+  <div class="partintro">
+   
+   
+
+<div class="section" id="ref.pdo-oci.installation">
+ <h2 class="title">安装</h2>
+ <p class="para">
+  If the Oracle Database is on the same machine as PHP, the database
+  software already contains the necessary libraries.  When PHP is on
+  a different machine, use the free
+  <a href="http://www.oracle.com/technetwork/database/database-technologies/instant-client/overview/index-4369172.html" class="link external">&raquo;&nbsp;Oracle Instant Client</a> libraries.
+  For details refer to the <a href="oci8.requirements.html" class="link">OCI8 Requirements</a> section.
+ </p>
+ <p class="para">
+  Use <strong class="option configure">--with-pdo-oci[=DIR]</strong>
+ to install
+  the PDO Oracle OCI extension, where the optional <em>[=DIR]</em>
+  is the Oracle Home directory. <em>[=DIR]</em> defaults to
+  the <var class="varname"><var class="varname">$ORACLE_HOME</var></var> environment variable.
+ </p>
+ <p class="para">
+  Use <strong class="option configure">--with-pdo-oci=instantclient,prefix,version</strong>
+
+  for an Oracle Instant Client <acronym>SDK</acronym>, where prefix and
+  version are configured.
+ </p>
+ <p class="para">
+  <div class="example-contents screen">
+<div class="cdata"><pre>
+// Using $ORACLE_HOME
+$ ./configure --with-pdo-oci
+
+// Using OIC for Linux with 10.2.0.3 RPMs with a /usr prefix
+$ ./configure --with-pdo-oci=instantclient,/usr,10.2.0.3
+</pre></div>
+  </div>
+ </p>
+</div>
+
+
+
+   
+
+<div class="section" id="pdo-oci.constants">
+ <h2 class="title">预定义常量</h2>
+ <p class="simpara">下列常量由此驱动定义，且仅在扩展编译入 PHP
+或在运行时动态载入时可用。另外，使用此驱动时，仅会使用这些驱动特定的常量。使用其他驱动的驱动特定的常量可能会导致不可预见的情况。如果代码可运行于多个驱动，<span class="function"><a href="pdo.getattribute.html" class="function">PDO::getAttribute()</a></span>
+可被用于获取
+<strong><code>PDO_ATTR_DRIVER_NAME</code></strong>
+属性以检查驱动。</p>
+ <dl>
+
+  
+  
+   <dt id="pdo.constants.oci-attr-action">
+    <strong><code>PDO::OCI_ATTR_ACTION</code></strong>
+     (<span class="type"><a href="language.types.integer.html" class="type integer">integer</a></span>)
+   </dt>
+
+   <dd>
+
+    <p class="para">
+     Provides a way to specify the action on the database session.
+    </p>
+    <p class="para">
+     自以下版本起 PHP  7.2.16 and 7.3.3
+    </p>
+   </dd>
+
+  
+  
+  
+   <dt id="pdo.constants.oci-attr-client-info">
+    <strong><code>PDO::OCI_ATTR_CLIENT_INFO</code></strong>
+     (<span class="type"><a href="language.types.integer.html" class="type integer">integer</a></span>)
+   </dt>
+
+   <dd>
+
+    <p class="para">
+     Provides a way to specify the client info on the database session.
+    </p>
+    <p class="para">
+     自以下版本起 PHP  7.2.16 and 7.3.3
+    </p>
+   </dd>
+
+  
+  
+  
+   <dt id="pdo.constants.oci-attr-client-identifier">
+    <strong><code>PDO::OCI_ATTR_CLIENT_IDENTIFIER</code></strong>
+     (<span class="type"><a href="language.types.integer.html" class="type integer">integer</a></span>)
+   </dt>
+
+   <dd>
+
+    <p class="para">
+     Provides a way to specify the client identifier on the database session.
+    </p>
+    <p class="para">
+     自以下版本起 PHP  7.2.16 and 7.3.3
+    </p>
+   </dd>
+
+  
+  
+  
+   <dt id="pdo.constants.oci-attr-module">
+    <strong><code>PDO::OCI_ATTR_MODULE</code></strong>
+     (<span class="type"><a href="language.types.integer.html" class="type integer">integer</a></span>)
+   </dt>
+
+   <dd>
+
+    <p class="para">
+     Provides a way to specify the module on the database session.
+    </p>
+    <p class="para">
+     自以下版本起 PHP  7.2.16 and 7.3.3
+    </p>
+   </dd>
+
+  
+
+ </dl>
+
+</div>
+
+
+
+
+  </div>
+
+  
+
+ <h2>Table of Contents</h2><ul class="chunklist chunklist_reference"><li><a href="ref.pdo-oci.connection.html">PDO_OCI DSN</a> — Connecting to Oracle databases</li></ul>
+</div>
+</div></div></body></html>

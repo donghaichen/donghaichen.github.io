@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=UTF-8>
+ <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+ <meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+ <meta http-equiv=x-dns-prefetch-control content=on>
+ <link rel=dns-prefetch href=//blog.mengniang.tv>
+  <title>VARIANT class constructor</title>
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-base.css" />
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-medium.css" />
+
+ </head>
+ <body class="docs"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <ul class="nav" style="width: 100%">
+      <li style="float: left;"><a href="class.variant.html">« VARIANT</a></li>
+      <li style="float: right;"><a href="class.com-exception.html">com_exception »</a></li>
+    </ul>
+  </div>
+</div>
+<div id="breadcrumbs" class="clearfix">
+  <ul class="breadcrumbs-container">
+    <li><a href="index.html">PHP Manual</a></li>
+    <li><a href="class.variant.html">VARIANT</a></li>
+    <li>VARIANT class constructor</li>
+  </ul>
+</div>
+<div id="layout">
+  <div id="layout-content"><div id="variant.construct" class="refentry">
+ <div class="refnamediv">
+  <h1 class="refname">VARIANT::__construct</h1>
+  <p class="verinfo">(PHP 4 &gt;= 4.1.0, PHP 5, PHP 7)</p><p class="refpurpose"><span class="refname">VARIANT::__construct</span> &mdash; <span class="dc-title">VARIANT class constructor</span></p>
+
+ </div>
+
+ <div class="refsect1 description" id="refsect1-variant.construct-description">
+  <h3 class="title">说明</h3>
+  <div class="constructorsynopsis dc-description">
+   <span class="methodname"><strong>VARIANT::__construct</strong></span>
+    ([ <span class="methodparam"><span class="type"><a href="language.pseudo-types.html#language.types.mixed" class="type mixed">mixed</a></span> <code class="parameter">$value</code><span class="initializer"> = <strong><code>NULL</code></strong></span></span>
+   [, <span class="methodparam"><span class="type">int</span> <code class="parameter">$type</code><span class="initializer"> = VT_EMPTY</span></span>
+   [, <span class="methodparam"><span class="type">int</span> <code class="parameter">$codepage</code><span class="initializer"> = CP_ACP</span></span>
+  ]]] )</div>
+
+  <p class="para rdfs-comment">
+   Constructs a new VARIANT object.
+  </p>
+ </div>
+
+
+ <div class="refsect1 parameters" id="refsect1-variant.construct-parameters">
+  <h3 class="title">参数</h3>
+  <dl>
+
+   
+    <dt>
+<code class="parameter">value</code></dt>
+
+    <dd>
+
+     <span class="simpara">
+      Initial value. If omitted, or set to <strong><code>NULL</code></strong> an VT_EMPTY object is created.
+     </span>
+    </dd>
+
+   
+   
+    <dt>
+<code class="parameter">type</code></dt>
+
+    <dd>
+
+     <span class="simpara">
+      Specifies the content type of the VARIANT object. Possible values are
+      one of the <strong><code>VT_XXX</code></strong> <a href="com.constants.html" class="xref">预定义常量</a>.
+     </span>
+     <span class="simpara">
+      PHP can detect parameters passed by reference
+      automatically; they do not even need to be passed as VARIANT objects.
+     </span>
+     <span class="simpara">
+      Consult the <acronym title="Microsoft Developer Network">MSDN</acronym> library for additional information
+      on the VARIANT type.
+     </span>
+    </dd>
+
+   
+   
+    <dt>
+<code class="parameter">codepage</code></dt>
+
+    <dd>
+
+     <span class="simpara">
+      Specifies the codepage that is used to convert strings to
+      unicode.  See the parameter of the same name in the
+      <a href="class.com.html" class="xref">COM</a> class for more information.
+     </span>
+    </dd>
+
+   
+  </dl>
+
+ </div>
+
+
+</div></div></div></body></html>

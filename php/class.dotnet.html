@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=UTF-8>
+ <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+ <meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+ <meta http-equiv=x-dns-prefetch-control content=on>
+ <link rel=dns-prefetch href=//blog.mengniang.tv>
+  <title>The DOTNET class</title>
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-base.css" />
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-medium.css" />
+
+ </head>
+ <body class="docs"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <ul class="nav" style="width: 100%">
+      <li style="float: left;"><a href="com.construct.html">« COM::__construct</a></li>
+      <li style="float: right;"><a href="dotnet.construct.html">DOTNET::__construct »</a></li>
+    </ul>
+  </div>
+</div>
+<div id="breadcrumbs" class="clearfix">
+  <ul class="breadcrumbs-container">
+    <li><a href="index.html">PHP Manual</a></li>
+    <li><a href="book.com.html">COM</a></li>
+    <li>The DOTNET class</li>
+  </ul>
+</div>
+<div id="layout">
+  <div id="layout-content"><div id="class.dotnet" class="reference">
+ 
+ <h1 class="title">The DOTNET class</h1>
+ <div class="partintro"><p class="verinfo">(PHP 4 &gt;= 4.1.0, PHP 5, PHP 7)</p>
+
+
+  <div class="section" id="dotnet.intro">
+   <h2 class="title">简介</h2>
+   <p class="para">
+    The DOTNET class allows you to instantiate a class from a .Net assembly and
+    call its methods and access its properties.
+   </p>
+   <blockquote class="note"><p><strong class="note">Note</strong>: 
+    <p class="para">
+     You need to install the .Net runtime on your web server to take advantage
+     of this feature.
+    </p>
+   </p></blockquote>
+  </div>
+
+
+  <div class="section" id="dotnet.synopsis">
+   <h2 class="title">类摘要</h2>
+
+
+   <div class="classsynopsis">
+    <div class="ooclass"></div>
+
+
+    <div class="classsynopsisinfo">
+     <span class="ooclass">
+      <strong class="classname">DOTNET</strong>
+     </span>
+
+    <span class="ooclass">
+     <span class="modifier">extends</span>
+     <a href="class.variant.html" class="classname">VARIANT</a>
+    </span>
+
+     {</div>
+
+
+    <div class="classsynopsisinfo classsynopsisinfo_comment">/* 方法 */</div>
+    <div class="constructorsynopsis dc-description">
+   <span class="methodname"><a href="dotnet.construct.html" class="methodname">__construct</a></span>
+    ( <span class="methodparam"><span class="type">string</span> <code class="parameter">$assembly_name</code></span>
+   , <span class="methodparam"><span class="type">string</span> <code class="parameter">$class_name</code></span>
+   [, <span class="methodparam"><span class="type">int</span> <code class="parameter">$codepage</code><span class="initializer"> = CP_ACP</span></span>
+  ] )</div>
+
+   }</div>
+
+
+  </div>
+
+  <div class="section" id="class.dotnet.overloadedmethods">
+   <h2 class="title">Overloaded Methods</h2>
+   <p class="para">
+    The returned object is an overloaded object, which means that PHP does
+    not see any fixed methods as it does with regular classes; instead, any
+    property or method accesses are passed through to COM and from there to
+    DOTNET.  In other words, the .Net object is mapped through the COM
+    interoperability layer provided by the .Net runtime.
+   </p>
+   <p class="para">
+    Once you have created a DOTNET object, PHP treats it identically to any
+    other COM object; all the same rules apply.
+   </p>
+  </div>
+
+  <div class="section" id="class.dotnet.examples">
+   <h2 class="title">DOTNET examples</h2>
+   <p class="para">
+    <div class="example" id="example-6467">
+     <p><strong>Example #1 DOTNET example</strong></p>
+     <div class="example-contents">
+<div class="phpcode"><code><span style="color: #000000">
+<span style="color: #0000BB">&lt;?php<br />$stack&nbsp;</span><span style="color: #007700">=&nbsp;new&nbsp;</span><span style="color: #0000BB">DOTNET</span><span style="color: #007700">(</span><span style="color: #DD0000">"mscorlib"</span><span style="color: #007700">,&nbsp;</span><span style="color: #DD0000">"System.Collections.Stack"</span><span style="color: #007700">);<br /></span><span style="color: #0000BB">$stack</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">Push</span><span style="color: #007700">(</span><span style="color: #DD0000">".Net"</span><span style="color: #007700">);<br /></span><span style="color: #0000BB">$stack</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">Push</span><span style="color: #007700">(</span><span style="color: #DD0000">"Hello&nbsp;"</span><span style="color: #007700">);<br />echo&nbsp;</span><span style="color: #0000BB">$stack</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">Pop</span><span style="color: #007700">()&nbsp;.&nbsp;</span><span style="color: #0000BB">$stack</span><span style="color: #007700">-&gt;</span><span style="color: #0000BB">Pop</span><span style="color: #007700">();<br /></span><span style="color: #0000BB">?&gt;</span>
+</span>
+</code></div>
+     </div>
+
+    </div>
+   </p>
+  </div>
+
+ </div>
+
+ 
+
+
+
+
+
+
+
+
+<h2>Table of Contents</h2><ul class="chunklist chunklist_reference"><li><a href="dotnet.construct.html">DOTNET::__construct</a> — DOTNET class constructor</li></ul>
+</div>
+</div></div></body></html>

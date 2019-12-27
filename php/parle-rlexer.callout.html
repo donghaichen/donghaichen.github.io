@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset=UTF-8>
+ <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+ <meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1">
+ <meta http-equiv=x-dns-prefetch-control content=on>
+ <link rel=dns-prefetch href=//blog.mengniang.tv>
+  <title>Define token callback</title>
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-base.css" />
+<link media="all" rel="stylesheet" type="text/css" href="styles/03e73060321a0a848018724a6c83de7f-theme-medium.css" />
+
+ </head>
+ <body class="docs"><div class="navbar navbar-fixed-top">
+  <div class="navbar-inner clearfix">
+    <ul class="nav" style="width: 100%">
+      <li style="float: left;"><a href="parle-rlexer.build.html">« Parle\RLexer::build</a></li>
+      <li style="float: right;"><a href="parle-rlexer.consume.html">Parle\RLexer::consume »</a></li>
+    </ul>
+  </div>
+</div>
+<div id="breadcrumbs" class="clearfix">
+  <ul class="breadcrumbs-container">
+    <li><a href="index.html">PHP Manual</a></li>
+    <li><a href="class.parle-rlexer.html">Parle\RLexer</a></li>
+    <li>Define token callback</li>
+  </ul>
+</div>
+<div id="layout">
+  <div id="layout-content"><div id="parle-rlexer.callout" class="refentry">
+ <div class="refnamediv">
+  <h1 class="refname">Parle\RLexer::callout</h1>
+  <p class="verinfo">(PECL parle &gt;= 0.7.2)</p><p class="refpurpose"><span class="refname">Parle\RLexer::callout</span> &mdash; <span class="dc-title">Define token callback</span></p>
+
+ </div>
+
+ <div class="refsect1 description" id="refsect1-parle-rlexer.callout-description">
+  <h3 class="title">说明</h3>
+  <div class="methodsynopsis dc-description">
+   <span class="modifier">public</span> <span class="methodname"><strong>Parle\RLexer::callout</strong></span>
+    ( <span class="methodparam"><span class="type">int</span> <code class="parameter">$id</code></span>
+   , <span class="methodparam"><span class="type"><a href="language.types.callable.html" class="type callable">callable</a></span> <code class="parameter">$callback</code></span>
+   ) : <span class="type"><span class="type void">void</span></span></div>
+
+  <p class="para rdfs-comment">
+   Define a callback to be invoked once lexer encounters a particular token.
+  </p>
+ </div>
+
+
+ <div class="refsect1 parameters" id="refsect1-parle-rlexer.callout-parameters">
+  <h3 class="title">参数</h3>
+  <dl>
+
+   
+    <dt>
+<code class="parameter">id</code></dt>
+
+    <dd>
+
+     <p class="para">
+      Token id.
+     </p>
+    </dd>
+
+   
+   
+    <dt>
+<code class="parameter">callback</code></dt>
+
+    <dd>
+
+     <p class="para">
+      Callable to be invoked. The callable doesn&#039;t receive any arguments and its return value is ignored.
+     </p>
+    </dd>
+
+   
+  </dl>
+
+ </div>
+
+
+ <div class="refsect1 returnvalues" id="refsect1-parle-rlexer.callout-returnvalues">
+  <h3 class="title">返回值</h3>
+  <p class="para">
+   没有返回值。   
+  </p>
+ </div>
+
+
+
+</div></div></div></body></html>
